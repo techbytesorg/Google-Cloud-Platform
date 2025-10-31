@@ -1,0 +1,1101 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Churn
+QLxa-86370,Female,0,Yes,No,67,Yes,No,Month-to-month,33.15,2227.77,No
+ntCH-03578,Female,1,No,No,72,Yes,DSL,Month-to-month,67.6,4882.39,No
+RZNa-78580,Female,1,Yes,Yes,13,No,DSL,Two year,43.96,605.49,No
+nZyp-87530,Male,1,No,No,37,Yes,Fiber optic,Two year,95.53,3517.08,Yes
+eaFi-90609,Male,1,No,No,6,No,No,Month-to-month,20.79,136.26,No
+lvne-83555,Male,0,Yes,No,21,No,No,Two year,22.63,505.32,No
+ULje-86460,Male,1,No,Yes,2,No,DSL,Two year,41.3,86.39,No
+izlO-40185,Female,0,Yes,Yes,37,Yes,DSL,Two year,60.82,2212.19,Yes
+hKGp-89725,Female,0,Yes,No,16,No,Fiber optic,Two year,113.99,1774.02,No
+PxfZ-02010,Female,0,No,Yes,31,Yes,DSL,Month-to-month,51.47,1550.97,Yes
+mnIK-71380,Female,0,Yes,Yes,26,No,Fiber optic,Two year,73.56,1961.71,No
+hFvl-61756,Male,0,No,No,14,No,No,Two year,20.19,282.82,Yes
+dkWb-38229,Female,0,No,No,31,Yes,DSL,Month-to-month,59.8,1816.47,Yes
+FDVT-26801,Female,0,Yes,Yes,38,No,No,One year,24.12,883.99,No
+CmlT-67773,Male,1,Yes,No,30,No,DSL,One year,63.81,1876.15,No
+BNNF-78761,Female,1,Yes,No,11,Yes,DSL,One year,53.87,618.28,No
+CXED-29769,Female,1,No,Yes,56,No,Fiber optic,Two year,105.23,5923.76,No
+shza-64370,Male,0,No,No,53,Yes,Fiber optic,Month-to-month,96.2,5054.6,Yes
+LrAN-03688,Male,0,Yes,No,60,Yes,Fiber optic,Two year,102.28,6167.14,No
+DUVK-59965,Male,0,Yes,No,63,Yes,DSL,Month-to-month,58.73,3682.52,No
+xJTJ-87949,Female,0,No,No,67,No,No,One year,24.91,1667.46,No
+HPnm-54258,Male,0,No,Yes,6,No,No,Two year,19.07,153.46,No
+Vxde-52344,Male,0,Yes,No,16,No,Fiber optic,Two year,98.55,1536.6,No
+jjpD-22540,Female,0,No,No,51,No,No,Two year,22.54,1118.57,No
+cAiu-02920,Female,0,Yes,Yes,46,Yes,DSL,Two year,59.42,2713.68,No
+TLzT-09473,Female,0,No,No,20,Yes,No,Two year,26.27,569.57,No
+Npso-19860,Male,0,Yes,No,32,No,DSL,Two year,48.44,1558.43,Yes
+shjC-09982,Male,0,Yes,No,60,No,DSL,Month-to-month,47.24,2813.12,Yes
+fdTJ-85610,Male,1,No,No,49,Yes,No,Two year,25.96,1316.08,No
+ODPm-98643,Male,0,Yes,Yes,27,No,DSL,One year,54.27,1445.14,No
+VWbF-25887,Male,0,Yes,Yes,45,Yes,Fiber optic,Month-to-month,112.55,5074.03,No
+PIDY-44916,Female,1,No,No,55,Yes,Fiber optic,One year,85.21,4731.88,No
+GRKN-97677,Male,1,No,Yes,29,Yes,DSL,Month-to-month,53.25,1581.98,No
+tTrC-54333,Male,0,Yes,No,27,No,DSL,Two year,63.26,1661.39,No
+krwv-38283,Female,1,Yes,Yes,58,Yes,Fiber optic,One year,99.0,5744.21,Yes
+ZwyO-76581,Female,0,No,Yes,3,No,No,Two year,21.34,110.86,No
+FjsY-00011,Female,1,Yes,No,72,Yes,No,Month-to-month,33.87,2480.12,No
+ffRW-03130,Female,0,No,Yes,26,No,No,Month-to-month,22.22,538.6,No
+sFff-27118,Female,1,No,No,67,Yes,DSL,One year,42.72,2910.29,No
+fRcA-02629,Male,0,No,Yes,49,No,Fiber optic,Month-to-month,85.39,4202.6,No
+gEMD-25995,Female,1,Yes,No,2,Yes,No,One year,25.75,97.55,No
+eMtq-19937,Female,1,Yes,Yes,19,No,Fiber optic,Month-to-month,95.11,1849.38,No
+OqLd-86746,Female,0,No,No,17,No,No,One year,20.93,361.06,No
+VONb-76488,Male,1,Yes,Yes,22,Yes,DSL,Month-to-month,71.03,1541.39,Yes
+rubw-85795,Female,1,Yes,No,7,Yes,No,Month-to-month,26.02,134.85,No
+cPns-55456,Male,0,No,Yes,15,No,No,One year,19.92,257.5,No
+Ovel-20757,Male,1,Yes,No,44,No,No,Month-to-month,22.31,1012.51,No
+kIQt-58684,Female,1,No,Yes,2,No,Fiber optic,Two year,78.01,174.23,Yes
+SAzo-31746,Male,1,No,No,38,Yes,No,Month-to-month,24.19,877.51,No
+eark-39776,Female,0,No,Yes,38,Yes,No,Month-to-month,29.1,1094.37,Yes
+mAbu-84396,Female,0,No,No,36,No,Fiber optic,One year,113.0,4117.56,No
+nOOG-49106,Male,1,Yes,Yes,14,Yes,DSL,Month-to-month,50.96,684.48,No
+MXsw-67373,Male,0,Yes,Yes,72,Yes,No,One year,31.15,2287.14,No
+iYlV-31460,Female,1,No,No,63,Yes,No,Two year,29.1,1831.38,Yes
+cWrt-43062,Male,1,Yes,Yes,58,No,Fiber optic,One year,92.02,5306.11,No
+hliy-21270,Female,0,No,Yes,4,No,Fiber optic,Month-to-month,86.63,390.0,Yes
+Fphj-44044,Female,0,No,No,33,No,DSL,Month-to-month,55.47,1788.54,No
+ZFWc-67531,Female,1,Yes,No,56,Yes,No,One year,33.01,1870.55,No
+uQno-85997,Female,0,No,No,37,Yes,DSL,Two year,54.89,1993.59,Yes
+zYqH-65553,Male,0,Yes,Yes,31,Yes,No,Two year,27.73,901.24,Yes
+yWDV-53002,Female,0,Yes,Yes,52,Yes,Fiber optic,Two year,82.17,4238.29,Yes
+Rfhm-93547,Female,1,No,No,1,No,Fiber optic,Two year,81.73,90.19,No
+JFrr-51167,Male,0,No,No,56,Yes,DSL,Two year,66.88,3720.0,No
+NcZt-36216,Male,1,No,Yes,37,Yes,DSL,Month-to-month,66.45,2465.54,Yes
+WsCr-46230,Male,0,No,No,72,No,No,Month-to-month,20.66,1535.61,No
+Trhi-74880,Female,1,No,No,18,Yes,Fiber optic,Month-to-month,87.01,1577.5,Yes
+YxTD-09922,Male,1,No,Yes,17,No,No,One year,21.9,418.5,No
+PCuV-73750,Female,1,No,Yes,53,Yes,Fiber optic,One year,103.11,5478.75,Yes
+jyRU-31899,Male,1,Yes,No,39,No,Fiber optic,One year,88.39,3487.15,Yes
+hZCQ-98030,Female,1,Yes,No,31,No,No,One year,24.37,785.85,No
+HhUk-61885,Female,1,Yes,Yes,67,No,No,Month-to-month,19.98,1319.25,No
+wwOQ-37034,Male,1,Yes,No,46,Yes,DSL,One year,49.43,2230.54,No
+KmIU-75463,Male,0,No,No,65,Yes,No,Two year,27.5,1828.31,No
+YHoA-72495,Male,0,Yes,Yes,53,Yes,No,Month-to-month,29.38,1536.88,No
+xRlz-52402,Male,1,Yes,Yes,65,Yes,DSL,One year,41.97,2752.53,No
+iwNE-72076,Male,0,No,Yes,29,No,No,One year,20.44,632.48,No
+Rjeh-85569,Female,1,No,Yes,35,Yes,No,Month-to-month,33.64,1155.53,No
+xBTL-55296,Female,1,No,Yes,71,Yes,Fiber optic,Two year,109.53,7774.9,No
+XsEV-34507,Male,1,No,Yes,35,No,DSL,Month-to-month,63.71,2272.92,No
+lafY-87695,Male,0,No,Yes,16,Yes,No,One year,19.47,358.8,No
+NmMJ-40769,Male,1,No,No,60,No,Fiber optic,One year,99.16,5935.0,No
+roVK-38661,Female,0,No,Yes,28,Yes,DSL,Month-to-month,46.05,1273.98,No
+mXXp-04788,Male,0,No,Yes,33,Yes,DSL,Two year,47.44,1566.61,No
+fLCw-28220,Female,1,Yes,Yes,27,Yes,Fiber optic,One year,91.86,2441.91,Yes
+FoWV-18080,Female,0,Yes,No,4,Yes,Fiber optic,Month-to-month,100.58,437.5,Yes
+ChtH-05120,Male,0,Yes,No,3,No,No,Two year,22.18,109.32,No
+PIUt-28041,Female,1,Yes,Yes,46,Yes,DSL,Month-to-month,54.08,2474.32,No
+CWdK-00727,Male,1,Yes,No,20,Yes,Fiber optic,One year,120.16,2403.77,Yes
+xPnN-00395,Female,0,No,Yes,53,Yes,DSL,Month-to-month,51.26,2765.15,No
+jwlA-06872,Female,0,Yes,No,6,Yes,Fiber optic,Month-to-month,105.58,653.55,Yes
+jPrq-42835,Male,0,No,Yes,60,Yes,DSL,One year,59.27,3512.01,No
+SQmG-72093,Male,1,No,No,42,Yes,No,One year,28.92,1177.41,Yes
+BBGs-03112,Male,1,Yes,No,28,No,No,One year,24.6,718.3,No
+eiCH-68783,Male,0,Yes,No,65,No,DSL,One year,65.46,4291.31,No
+PjLw-79141,Female,1,Yes,Yes,19,No,Fiber optic,Two year,81.62,1521.94,No
+xwXt-12690,Male,0,Yes,Yes,58,No,Fiber optic,Two year,106.06,6199.2,Yes
+urTK-50020,Male,0,No,No,29,No,No,One year,20.98,572.03,No
+wjrS-15945,Female,1,Yes,No,25,No,DSL,Month-to-month,55.29,1337.51,No
+QzCd-68494,Male,0,No,Yes,21,Yes,DSL,One year,68.38,1481.49,No
+PBSx-89665,Female,0,Yes,No,5,No,No,Month-to-month,24.18,105.88,Yes
+wcUb-00090,Male,1,No,No,17,No,DSL,Two year,57.01,965.52,No
+ldBv-89887,Male,1,Yes,No,66,Yes,Fiber optic,Two year,104.61,6905.42,No
+zRls-54524,Female,0,Yes,No,21,No,Fiber optic,Month-to-month,89.38,1881.64,Yes
+xmeJ-75345,Male,0,Yes,Yes,25,Yes,DSL,Month-to-month,61.19,1546.75,Yes
+HRCR-89755,Female,0,No,No,29,Yes,No,Month-to-month,24.44,703.54,Yes
+PUlb-80607,Female,0,Yes,No,47,Yes,Fiber optic,Month-to-month,98.88,4669.56,Yes
+QXTZ-79505,Female,1,Yes,No,71,Yes,DSL,Month-to-month,49.23,3448.62,No
+Prcj-92051,Female,0,No,No,38,No,No,One year,23.82,917.81,No
+qrHh-96672,Male,0,No,No,15,No,DSL,One year,54.6,858.18,No
+AoAm-66003,Male,1,Yes,No,16,Yes,DSL,One year,67.19,1121.03,No
+EqNY-23859,Male,1,Yes,No,25,No,Fiber optic,Month-to-month,104.8,2607.05,No
+YZwH-00328,Male,0,No,No,39,No,Fiber optic,One year,82.8,3181.17,No
+bYxp-30441,Male,1,Yes,Yes,53,No,DSL,Two year,68.51,3582.38,No
+bjZC-53155,Male,1,No,No,47,No,No,Month-to-month,20.37,962.41,No
+bTzL-49078,Male,1,No,Yes,64,No,DSL,One year,69.97,4514.82,No
+igSp-20119,Female,1,Yes,Yes,72,No,Fiber optic,One year,71.09,5118.35,Yes
+nRur-04060,Male,0,Yes,No,24,Yes,DSL,Month-to-month,53.61,1279.26,No
+uxQJ-94771,Female,0,Yes,Yes,67,Yes,No,Month-to-month,25.24,1713.44,No
+QzQg-71724,Male,1,Yes,Yes,18,No,No,One year,22.44,373.0,No
+FKsq-82232,Male,1,No,Yes,13,No,DSL,One year,60.68,794.65,Yes
+TxfQ-36688,Female,0,Yes,No,9,Yes,Fiber optic,Two year,115.98,1012.83,Yes
+SelX-69553,Male,1,No,No,18,No,DSL,One year,67.34,1190.01,No
+XQSM-29584,Female,0,No,Yes,54,Yes,Fiber optic,Month-to-month,85.72,4669.56,No
+KBmn-34023,Male,0,No,Yes,59,No,Fiber optic,Month-to-month,104.91,6182.59,Yes
+zyAM-37509,Male,1,No,No,35,No,DSL,One year,67.08,2379.5,No
+NcWB-05881,Female,1,Yes,No,29,No,No,One year,23.49,712.52,Yes
+GQDd-84847,Male,0,No,Yes,43,Yes,Fiber optic,One year,99.25,4301.24,Yes
+MTyD-92711,Female,1,No,No,10,Yes,No,Two year,28.98,332.36,No
+Mkdi-98147,Female,0,No,No,10,No,DSL,Month-to-month,41.18,419.79,Yes
+LtrB-38951,Male,1,Yes,Yes,24,Yes,DSL,One year,66.14,1557.61,Yes
+XiqM-26738,Male,1,No,Yes,35,No,DSL,One year,60.76,2127.23,No
+OooO-36844,Male,0,Yes,No,44,Yes,DSL,Month-to-month,71.34,3165.28,No
+aHCM-22366,Female,1,No,No,54,Yes,DSL,One year,68.34,3722.46,No
+UijO-57006,Female,0,No,Yes,20,No,No,Month-to-month,24.36,508.81,No
+XZzZ-11284,Male,0,No,No,10,No,DSL,Two year,48.81,440.76,No
+mzdD-59015,Female,0,No,Yes,46,Yes,No,One year,28.21,1301.42,Yes
+aBic-14581,Male,0,No,No,33,Yes,Fiber optic,Two year,80.89,2633.42,No
+gCqi-80049,Female,0,Yes,Yes,16,Yes,Fiber optic,Two year,110.56,1780.02,No
+jfzp-81648,Female,1,No,Yes,28,Yes,Fiber optic,One year,85.77,2416.51,No
+CSSt-73423,Male,1,Yes,No,52,Yes,Fiber optic,One year,86.21,4515.76,Yes
+jtjL-35954,Male,1,No,Yes,24,Yes,No,Month-to-month,26.1,595.38,No
+aObd-67547,Female,0,Yes,No,28,Yes,Fiber optic,Two year,82.49,2276.23,Yes
+Dsrr-85045,Female,0,Yes,No,54,No,DSL,Two year,48.7,2619.98,No
+CIvz-51783,Male,1,No,No,11,Yes,Fiber optic,Month-to-month,82.85,876.34,Yes
+CXBf-21639,Female,1,No,No,24,No,Fiber optic,Month-to-month,77.44,1898.78,Yes
+oBkO-28941,Male,1,No,No,11,Yes,Fiber optic,One year,95.58,1025.77,No
+uSDn-61798,Female,0,Yes,Yes,28,No,DSL,Month-to-month,58.39,1635.28,No
+Bysy-63470,Female,1,No,Yes,40,No,Fiber optic,Month-to-month,70.98,2820.21,Yes
+njxR-99973,Male,1,No,Yes,7,Yes,Fiber optic,One year,83.4,552.33,Yes
+gXfO-53235,Female,0,Yes,No,19,Yes,DSL,Two year,59.67,1121.75,No
+INMZ-18870,Female,0,No,Yes,39,No,Fiber optic,Two year,87.08,3412.2,No
+XkDn-03742,Male,0,No,No,8,No,Fiber optic,Month-to-month,114.25,884.65,Yes
+Dado-67773,Male,1,No,Yes,7,No,DSL,One year,46.54,322.2,No
+EdpW-93587,Male,0,Yes,Yes,27,Yes,No,Month-to-month,23.92,647.32,Yes
+wyat-49640,Female,0,No,No,16,Yes,No,Month-to-month,22.16,352.43,Yes
+CmbD-05983,Female,0,Yes,No,4,No,No,Month-to-month,24.36,117.9,No
+IYTX-71085,Male,1,No,No,9,Yes,Fiber optic,One year,87.3,746.07,No
+Veal-52074,Female,0,No,Yes,30,No,No,One year,21.01,662.96,Yes
+PITK-42755,Female,0,Yes,No,24,No,Fiber optic,One year,103.7,2487.72,No
+xrhz-98648,Male,0,No,No,48,No,DSL,Month-to-month,54.55,2657.13,Yes
+YoNE-20646,Female,0,No,Yes,18,No,DSL,Month-to-month,46.67,817.62,Yes
+SZVW-40674,Female,1,No,No,65,No,DSL,One year,43.7,2846.43,No
+kNhn-02866,Male,0,Yes,No,68,Yes,DSL,Two year,67.08,4609.25,No
+Lejl-61796,Female,1,Yes,No,52,Yes,DSL,One year,52.02,2682.15,No
+eFcH-47580,Male,1,Yes,No,6,No,DSL,Month-to-month,67.16,431.86,Yes
+eCMo-89630,Male,0,No,Yes,48,Yes,DSL,Two year,64.87,3140.91,No
+Fqan-48126,Male,0,Yes,Yes,34,No,Fiber optic,One year,102.91,3520.88,Yes
+HfDS-96036,Male,0,Yes,Yes,32,No,DSL,Two year,59.56,1907.47,No
+fLLv-90745,Male,0,Yes,No,71,Yes,No,Month-to-month,29.7,2144.21,No
+XZCu-97032,Female,0,No,No,7,No,No,Two year,19.44,86.59,Yes
+bzwL-45627,Female,0,No,Yes,16,No,Fiber optic,Month-to-month,96.9,1508.52,No
+JdYy-57881,Male,1,Yes,Yes,66,Yes,Fiber optic,Month-to-month,83.15,5480.1,No
+hvmO-67675,Female,1,Yes,No,49,No,DSL,One year,54.04,2662.98,No
+SrfT-07250,Male,0,Yes,Yes,13,Yes,Fiber optic,One year,94.29,1200.94,Yes
+RZeb-48728,Male,0,Yes,No,9,Yes,No,Two year,32.22,330.81,No
+doYM-77165,Female,0,Yes,No,1,No,Fiber optic,One year,103.5,103.5,Yes
+SDBM-48354,Male,1,No,No,9,No,DSL,Two year,51.9,422.22,No
+utdB-70087,Female,1,No,Yes,22,Yes,DSL,One year,63.65,1403.02,No
+ZPqn-14662,Female,1,No,Yes,1,Yes,No,Two year,28.24,28.24,Yes
+bIjG-03897,Male,0,Yes,Yes,19,Yes,No,One year,26.07,467.52,No
+AtCm-70660,Female,1,No,No,16,Yes,DSL,One year,65.33,1003.97,No
+qXfR-57391,Male,0,Yes,Yes,57,Yes,No,Month-to-month,23.08,1295.41,No
+Gyrf-25127,Male,0,No,Yes,32,No,Fiber optic,Two year,94.53,3025.73,No
+YTKr-37499,Male,1,Yes,No,45,Yes,No,Month-to-month,19.56,915.79,Yes
+mCQQ-87545,Female,0,Yes,Yes,15,No,Fiber optic,Two year,87.87,1338.9,No
+zKsa-79641,Female,0,No,No,30,Yes,No,Two year,24.97,730.68,No
+AqDL-36997,Female,0,Yes,Yes,63,Yes,Fiber optic,Two year,84.38,5272.19,Yes
+OjDB-49221,Male,1,Yes,No,11,Yes,Fiber optic,One year,75.53,812.42,No
+FwaG-97387,Female,0,Yes,Yes,30,Yes,No,One year,30.22,932.08,No
+dOeu-14269,Female,0,No,Yes,23,Yes,DSL,One year,67.17,1542.51,No
+jQYp-83083,Female,0,Yes,No,50,No,No,Month-to-month,24.09,1241.2,No
+MxWU-11539,Female,1,No,Yes,46,Yes,DSL,Month-to-month,74.68,3455.26,No
+jCxL-41511,Male,1,Yes,Yes,10,No,No,Two year,19.14,211.24,No
+jaDg-49677,Female,0,Yes,No,71,Yes,No,Month-to-month,32.79,2327.05,No
+ROko-48875,Female,1,No,Yes,26,No,Fiber optic,Two year,75.29,1929.83,No
+gLwv-91035,Female,1,No,No,43,Yes,No,One year,29.52,1295.49,No
+qDaf-75669,Female,0,Yes,Yes,35,No,Fiber optic,Two year,100.03,3461.44,Yes
+unzW-84510,Female,1,No,Yes,39,Yes,No,Month-to-month,23.22,905.36,Yes
+FAYT-72580,Female,1,No,Yes,19,No,Fiber optic,Month-to-month,111.67,2101.42,Yes
+fdpB-75747,Male,1,Yes,Yes,20,Yes,No,One year,33.69,625.33,No
+ZhNq-89615,Female,0,Yes,Yes,18,No,Fiber optic,Month-to-month,87.34,1619.29,No
+pgti-28073,Female,1,Yes,Yes,37,Yes,DSL,Month-to-month,73.18,2743.81,Yes
+RUZJ-80700,Male,1,Yes,Yes,4,No,No,One year,23.65,132.28,Yes
+IVJz-00825,Female,1,Yes,No,20,No,No,Month-to-month,19.41,393.86,Yes
+tBYJ-10284,Female,1,Yes,No,40,Yes,No,Month-to-month,24.85,944.33,Yes
+alxB-50374,Male,1,Yes,Yes,65,Yes,DSL,Month-to-month,54.26,3576.47,Yes
+rULD-42324,Female,0,No,No,6,No,No,Two year,21.03,92.61,No
+qXnU-73569,Male,1,Yes,No,33,Yes,DSL,One year,45.39,1530.46,No
+zKwO-38264,Male,0,No,Yes,3,Yes,No,Month-to-month,30.81,122.6,Yes
+rhAx-37516,Female,1,Yes,Yes,45,No,DSL,Two year,60.77,2781.86,No
+DqbH-07480,Female,0,No,No,64,No,DSL,Month-to-month,68.63,4410.59,Yes
+ojfh-22397,Male,0,No,No,71,Yes,No,One year,25.13,1747.51,No
+bAgg-03663,Male,0,Yes,No,58,No,DSL,One year,57.08,3341.04,No
+Fmpo-47820,Female,1,Yes,Yes,67,No,DSL,One year,56.23,3742.58,No
+Wpqs-52260,Female,1,No,No,72,No,No,Month-to-month,23.85,1712.93,No
+SNtt-30443,Male,0,No,Yes,7,Yes,DSL,One year,46.98,342.87,Yes
+OGAo-07899,Male,1,No,Yes,30,No,No,Month-to-month,21.32,634.5,Yes
+HRda-25797,Female,1,No,Yes,30,No,No,One year,23.96,708.06,No
+ZUBc-76046,Male,0,No,Yes,50,Yes,DSL,Month-to-month,49.85,2488.7,No
+zOSt-49956,Male,0,Yes,No,43,No,Fiber optic,Two year,81.3,3515.02,No
+eiyV-68537,Male,1,Yes,Yes,38,Yes,Fiber optic,Month-to-month,87.74,3284.52,Yes
+Bvxw-84482,Female,1,No,Yes,22,Yes,No,One year,19.74,420.34,No
+BbIa-77673,Male,1,No,Yes,54,Yes,Fiber optic,Two year,117.55,6332.33,Yes
+vuZj-65438,Female,1,Yes,Yes,10,No,DSL,Two year,62.3,643.15,No
+YojO-31219,Female,0,No,No,25,Yes,Fiber optic,Two year,99.35,2457.7,No
+VYvt-83573,Female,1,No,No,69,No,DSL,One year,50.79,3535.42,No
+ZnNB-52922,Male,0,No,Yes,27,Yes,Fiber optic,Two year,105.24,2864.14,No
+Sbjz-03621,Male,0,No,Yes,68,No,DSL,One year,59.39,4040.87,No
+JuIY-01521,Male,0,Yes,No,1,Yes,DSL,Month-to-month,55.13,55.13,No
+ucxB-35360,Female,0,No,No,13,Yes,Fiber optic,Month-to-month,113.59,1489.9,No
+CksC-47962,Female,1,Yes,Yes,29,No,Fiber optic,One year,100.2,2905.16,No
+Jzeh-61385,Female,0,No,Yes,58,Yes,No,Month-to-month,29.83,1732.93,Yes
+DxXe-70381,Female,1,No,Yes,31,No,No,One year,21.54,658.38,No
+JzCZ-69039,Male,1,No,No,31,Yes,No,One year,26.75,801.83,Yes
+Fano-41434,Female,0,No,No,65,No,No,Two year,19.04,1273.03,No
+TDiy-91556,Female,0,Yes,Yes,24,Yes,DSL,Month-to-month,45.08,1108.76,Yes
+aSlJ-51725,Male,1,Yes,No,24,No,DSL,Two year,42.77,1075.64,Yes
+Sudq-49210,Male,0,Yes,Yes,52,Yes,DSL,Month-to-month,57.08,3014.95,Yes
+dSqX-33517,Male,0,No,Yes,23,No,No,Two year,21.72,523.36,No
+raZt-68529,Female,1,Yes,No,5,No,No,Two year,20.3,104.16,Yes
+SuAt-75803,Male,1,No,No,17,Yes,Fiber optic,One year,72.04,1245.21,No
+aadJ-54175,Female,1,Yes,No,6,No,No,Month-to-month,21.17,104.38,Yes
+gqip-21973,Female,1,Yes,No,23,Yes,DSL,Month-to-month,65.5,1545.4,Yes
+NGbf-55468,Male,1,No,No,16,Yes,DSL,One year,52.97,844.53,No
+qCzr-65582,Male,1,No,No,57,No,Fiber optic,Month-to-month,94.9,5390.85,Yes
+apaz-78571,Female,1,Yes,Yes,41,No,DSL,Month-to-month,68.83,2780.16,Yes
+ZMIo-03253,Female,1,Yes,No,23,No,DSL,Two year,53.58,1219.14,No
+IDOm-08776,Female,1,No,Yes,25,Yes,No,Two year,28.01,675.32,No
+TokB-25835,Male,0,No,No,26,No,DSL,One year,48.15,1206.84,No
+pYWH-03971,Male,1,No,Yes,66,No,No,Two year,22.75,1487.46,No
+vxQv-01118,Female,1,No,No,8,Yes,Fiber optic,One year,88.69,757.69,No
+IbrW-94706,Male,1,No,No,65,No,DSL,One year,65.62,4279.16,No
+THLq-87687,Male,0,No,No,44,No,No,Month-to-month,21.18,905.79,Yes
+iaYg-72395,Female,0,No,No,64,No,Fiber optic,Two year,112.21,7185.32,No
+Efqa-98228,Male,0,Yes,Yes,20,Yes,Fiber optic,Month-to-month,97.38,1909.79,Yes
+mAmA-61101,Female,0,No,Yes,11,No,Fiber optic,One year,89.88,998.16,Yes
+aRNX-94364,Male,1,Yes,Yes,56,No,No,One year,20.1,1162.04,No
+lzAz-15436,Female,0,Yes,Yes,64,Yes,No,One year,30.91,1993.69,No
+QtpV-10778,Female,1,Yes,Yes,43,Yes,DSL,Month-to-month,59.07,2531.61,No
+tylI-73560,Male,1,Yes,Yes,68,Yes,Fiber optic,Two year,76.83,5221.18,No
+sKao-63959,Female,1,No,No,13,Yes,No,Month-to-month,29.25,360.71,No
+lXiE-47141,Female,0,No,No,32,No,DSL,One year,56.42,1842.5,No
+xTDC-94331,Female,0,No,No,50,Yes,Fiber optic,Month-to-month,118.2,5936.57,No
+ouUn-43986,Female,1,Yes,No,50,No,Fiber optic,Month-to-month,94.21,4727.47,Yes
+QIFw-56794,Male,0,No,Yes,61,No,Fiber optic,Two year,72.5,4411.21,No
+zSup-96054,Female,1,Yes,No,24,Yes,No,One year,22.7,590.97,No
+MAHS-86961,Female,1,No,No,65,Yes,Fiber optic,One year,112.38,7266.56,No
+yyHO-04367,Female,1,Yes,Yes,67,Yes,DSL,Month-to-month,52.36,3495.22,No
+KvwW-59479,Female,0,Yes,No,36,No,No,Two year,21.1,743.3,No
+BbKW-10064,Female,1,Yes,No,36,Yes,DSL,Two year,71.77,2558.62,No
+umfs-45511,Male,1,Yes,Yes,4,Yes,DSL,One year,52.71,172.88,No
+HOlM-36093,Female,0,No,No,72,No,DSL,One year,50.02,3621.59,No
+AQQE-02777,Female,1,Yes,Yes,66,No,No,Month-to-month,24.95,1664.25,No
+vCRf-45615,Female,0,Yes,Yes,62,No,Fiber optic,One year,71.52,4480.16,No
+EKIE-34133,Female,1,Yes,No,33,Yes,No,Month-to-month,24.76,768.6,No
+zGnL-16823,Male,1,Yes,Yes,39,No,DSL,One year,44.43,1753.11,No
+zNcI-73010,Female,1,Yes,No,7,No,No,Two year,20.42,104.54,No
+KEql-20492,Female,0,Yes,No,67,No,No,Two year,22.36,1535.93,No
+sVgv-96962,Male,1,Yes,No,63,No,No,Month-to-month,23.31,1514.36,No
+wMsJ-60633,Male,0,No,No,15,Yes,DSL,Two year,64.98,925.86,Yes
+Udsa-38890,Male,0,No,Yes,27,Yes,No,One year,25.22,660.34,Yes
+dUDU-13166,Male,0,Yes,No,11,Yes,DSL,Two year,55.32,629.98,No
+zQJO-69324,Female,1,Yes,No,67,No,No,One year,24.5,1629.82,No
+wLtx-22187,Male,1,Yes,No,29,Yes,No,Month-to-month,29.08,828.02,Yes
+hxMy-19260,Female,1,Yes,Yes,35,Yes,DSL,Two year,66.23,2281.57,No
+HwRI-18645,Male,0,No,No,13,Yes,No,Month-to-month,28.67,386.03,No
+EfnT-61056,Male,1,Yes,No,72,Yes,Fiber optic,Month-to-month,111.64,8034.31,No
+idqg-14773,Female,0,Yes,No,56,Yes,DSL,Month-to-month,70.89,3948.23,Yes
+WvKQ-80351,Male,1,No,No,18,Yes,Fiber optic,Month-to-month,115.21,2102.06,Yes
+GliL-10712,Male,0,No,Yes,32,No,Fiber optic,Month-to-month,94.96,3030.18,Yes
+ODLP-17177,Female,1,Yes,No,67,Yes,No,Month-to-month,26.8,1747.02,Yes
+Eeuc-05829,Female,1,No,Yes,38,No,DSL,One year,56.16,2174.44,No
+vyiS-77946,Female,0,No,No,53,Yes,Fiber optic,One year,99.4,5291.59,No
+MAQE-89617,Male,1,Yes,Yes,55,Yes,No,One year,34.38,1858.65,No
+ygcn-06855,Male,0,Yes,Yes,27,No,No,Two year,20.82,550.32,No
+uITg-18663,Female,1,No,No,35,No,DSL,Month-to-month,45.57,1596.5,No
+zpGO-27781,Male,1,No,Yes,20,Yes,DSL,One year,57.91,1147.92,Yes
+vaCy-71795,Female,1,No,No,50,No,DSL,Two year,60.53,3072.49,No
+Fkng-62074,Male,1,No,No,13,No,Fiber optic,Two year,105.58,1338.14,No
+pFmi-32058,Female,1,Yes,Yes,47,No,Fiber optic,Month-to-month,72.84,3453.22,No
+whpw-15175,Male,1,No,No,47,No,Fiber optic,One year,75.2,3571.82,Yes
+SiaK-28554,Female,0,Yes,No,54,Yes,No,Two year,23.26,1206.6,No
+aFFH-81438,Male,1,No,Yes,43,Yes,DSL,Month-to-month,69.69,2984.18,Yes
+wLVQ-14023,Male,1,Yes,Yes,5,No,Fiber optic,Month-to-month,76.78,371.79,Yes
+Mvvk-96703,Male,0,No,Yes,10,No,DSL,Month-to-month,40.39,354.3,No
+FWZK-06745,Female,0,Yes,Yes,43,Yes,Fiber optic,One year,89.65,3814.33,No
+hJCC-26093,Female,0,Yes,Yes,20,Yes,DSL,Month-to-month,66.62,1289.8,No
+YSJO-26796,Female,1,No,No,68,Yes,DSL,One year,54.09,3695.85,No
+HUFg-44082,Male,1,No,Yes,22,Yes,No,One year,27.26,557.48,No
+YDLj-54863,Male,0,No,Yes,61,Yes,No,Two year,31.46,1945.93,No
+SPHg-64717,Female,1,Yes,No,9,No,Fiber optic,One year,84.74,737.82,No
+rYFo-03562,Female,0,No,No,37,Yes,Fiber optic,Month-to-month,106.58,3992.68,No
+Kbqn-36629,Male,1,Yes,Yes,16,No,DSL,Two year,62.87,957.06,No
+RjMa-93137,Female,0,No,Yes,27,No,DSL,Month-to-month,42.04,1153.36,Yes
+Riju-27598,Female,1,No,Yes,14,No,DSL,Month-to-month,59.29,841.09,Yes
+wekt-53684,Female,0,No,Yes,18,No,No,Two year,24.15,455.98,No
+CEZH-99773,Male,0,No,No,52,Yes,DSL,Two year,53.82,2794.12,No
+WMOh-61958,Female,0,No,No,23,Yes,DSL,One year,63.32,1449.72,No
+fFQi-40629,Female,0,Yes,No,1,No,No,Month-to-month,24.68,24.68,Yes
+VTul-82731,Female,1,No,Yes,44,No,No,Month-to-month,22.31,962.45,Yes
+UVpo-15091,Male,1,Yes,Yes,8,Yes,No,Two year,27.95,178.09,No
+aKhC-52662,Female,0,Yes,No,7,Yes,No,One year,26.36,233.02,Yes
+mahi-34317,Male,0,No,Yes,62,No,DSL,Two year,68.04,4231.66,No
+lZeT-49458,Male,0,No,Yes,21,No,No,One year,22.67,499.03,No
+feQM-28927,Male,1,No,Yes,24,Yes,Fiber optic,One year,101.71,2485.27,Yes
+Iflj-58491,Female,1,No,Yes,71,Yes,Fiber optic,One year,100.55,7165.82,No
+CvCU-03170,Male,1,No,No,40,Yes,Fiber optic,Two year,112.61,4486.14,Yes
+IBjL-17413,Female,0,No,No,23,No,DSL,Two year,66.33,1523.14,Yes
+IflY-84917,Male,0,No,Yes,43,No,DSL,One year,61.69,2634.96,No
+spdy-40284,Female,1,No,Yes,49,No,DSL,Two year,57.81,2850.2,No
+jhNN-68758,Female,0,Yes,Yes,57,Yes,No,One year,23.94,1338.17,No
+EYnO-06761,Male,1,Yes,Yes,42,No,DSL,One year,43.49,1791.62,Yes
+ixQg-04551,Female,1,Yes,Yes,22,No,Fiber optic,Month-to-month,70.01,1504.79,Yes
+zAAr-62666,Female,1,Yes,Yes,32,No,DSL,One year,48.62,1566.24,No
+HRdr-41793,Female,0,Yes,No,57,Yes,Fiber optic,One year,72.25,4099.59,No
+olwJ-57267,Female,1,No,No,60,Yes,Fiber optic,Two year,80.15,4857.51,No
+fJFi-09221,Male,1,Yes,Yes,34,Yes,DSL,Two year,69.61,2351.88,No
+HENP-64361,Male,1,No,Yes,56,Yes,Fiber optic,One year,85.39,4769.63,No
+FZHc-36168,Male,1,Yes,Yes,40,Yes,DSL,Two year,61.81,2493.41,No
+jdwn-87720,Male,0,Yes,No,13,Yes,DSL,One year,74.79,1001.14,No
+XPAk-33464,Male,0,Yes,Yes,26,Yes,DSL,One year,49.55,1278.14,No
+SlPf-42096,Male,0,Yes,No,4,No,No,Month-to-month,21.54,119.8,Yes
+KKbn-78855,Male,1,No,Yes,44,No,DSL,One year,65.81,2940.1,No
+szLa-81932,Male,1,Yes,No,45,Yes,DSL,Two year,63.51,2831.12,Yes
+lGCh-14054,Female,0,No,No,43,Yes,No,Two year,27.04,1191.76,No
+wpWt-92544,Male,0,Yes,Yes,12,No,DSL,Two year,57.52,722.3,Yes
+WIBv-22450,Female,0,Yes,Yes,44,No,DSL,Month-to-month,60.85,2691.99,Yes
+FoJi-46106,Female,0,No,No,62,No,No,Month-to-month,24.48,1547.28,No
+IVIJ-75839,Male,0,No,Yes,49,No,No,Two year,19.22,950.29,No
+oNeK-32088,Female,0,Yes,No,12,No,DSL,One year,54.29,662.65,Yes
+UYgp-33443,Female,0,No,Yes,7,No,Fiber optic,Month-to-month,102.91,733.15,No
+QMHL-20687,Male,0,No,No,10,No,DSL,Month-to-month,55.18,548.35,Yes
+YWVZ-90319,Female,0,No,Yes,58,Yes,Fiber optic,Two year,105.84,6172.99,No
+OlKU-82468,Male,0,No,Yes,20,Yes,Fiber optic,One year,84.15,1651.38,No
+MVWI-01829,Female,0,No,Yes,6,No,No,Two year,22.48,91.08,No
+Rrcm-48417,Male,1,Yes,No,23,No,Fiber optic,One year,81.47,1856.74,Yes
+AdKc-13007,Male,0,Yes,No,55,No,Fiber optic,Two year,97.26,5340.27,Yes
+crNp-10143,Female,1,Yes,Yes,64,Yes,No,One year,21.5,1393.57,No
+bPEb-73884,Male,1,No,Yes,25,No,No,Two year,24.52,651.34,Yes
+Uaqm-01363,Male,0,Yes,Yes,39,Yes,No,Two year,29.2,1146.82,No
+JkWw-78051,Female,1,Yes,No,20,Yes,Fiber optic,One year,101.9,2002.85,Yes
+tDeB-43674,Male,1,Yes,Yes,40,Yes,DSL,One year,63.42,2516.95,No
+jNXJ-90518,Female,0,No,No,13,No,No,One year,22.85,317.07,No
+yfyz-39185,Female,0,Yes,Yes,15,No,No,Month-to-month,19.61,297.85,No
+SwZy-30581,Female,1,Yes,No,65,Yes,DSL,Two year,70.41,4603.4,No
+rYZG-06893,Female,0,No,No,59,No,Fiber optic,One year,105.88,6256.08,No
+Doly-02318,Male,0,Yes,No,22,Yes,Fiber optic,One year,82.62,1768.04,No
+YteD-20861,Female,1,No,No,49,No,Fiber optic,Two year,89.05,4339.43,No
+CZFW-45404,Female,0,Yes,No,60,Yes,Fiber optic,One year,84.21,5012.93,No
+ncDQ-05244,Male,1,No,No,42,No,DSL,One year,41.96,1772.6,Yes
+MjNB-90089,Male,0,Yes,No,22,Yes,Fiber optic,Month-to-month,84.0,1859.36,Yes
+FqoG-10053,Female,1,Yes,Yes,27,Yes,Fiber optic,Month-to-month,112.31,3065.62,Yes
+ykGO-81243,Male,0,Yes,No,3,No,Fiber optic,Two year,96.26,311.06,Yes
+hjkn-48026,Male,0,Yes,Yes,33,No,No,One year,22.15,715.48,No
+FEEQ-31669,Male,0,No,No,16,No,No,Two year,20.84,284.31,No
+acmv-23695,Female,0,Yes,No,63,No,DSL,Two year,54.21,3406.88,No
+zwBH-35166,Female,0,Yes,Yes,3,Yes,DSL,Month-to-month,69.44,187.98,Yes
+HRLe-99309,Female,0,Yes,No,72,Yes,No,Two year,28.28,1991.16,No
+tfLk-71146,Male,1,Yes,Yes,28,Yes,DSL,Two year,65.28,1808.24,Yes
+HDRn-49448,Male,0,Yes,No,48,No,DSL,One year,55.21,2698.59,No
+JNph-72249,Female,1,Yes,No,43,No,DSL,Month-to-month,66.83,2918.47,Yes
+ptBu-26343,Female,1,Yes,No,29,Yes,Fiber optic,One year,106.21,3125.89,No
+CbOE-26881,Female,1,No,No,67,No,No,Two year,19.38,1260.13,No
+WwLV-61852,Male,0,No,Yes,44,Yes,No,Month-to-month,24.73,1121.94,No
+wUNh-20706,Female,0,No,No,9,No,Fiber optic,Two year,97.96,915.0,Yes
+cMHs-11130,Female,1,Yes,Yes,23,No,Fiber optic,One year,85.68,1974.63,No
+rnbg-96135,Male,1,No,Yes,57,No,DSL,Month-to-month,53.18,3066.38,No
+pSst-47189,Female,0,No,No,62,No,DSL,Two year,61.34,3805.88,No
+mdMW-08917,Female,1,Yes,No,31,No,No,One year,23.68,781.04,No
+bmfT-66990,Female,1,Yes,No,17,No,DSL,Two year,67.3,1146.86,No
+vSnQ-25799,Female,0,No,No,57,No,No,Month-to-month,24.84,1415.96,No
+wopf-08659,Male,0,Yes,Yes,39,No,No,Month-to-month,23.28,881.95,No
+AwEe-54620,Male,0,Yes,No,16,No,No,One year,23.4,410.58,No
+obIJ-07201,Male,0,No,No,39,Yes,No,One year,30.16,1166.24,No
+xgtL-15477,Female,1,Yes,Yes,52,No,Fiber optic,Month-to-month,87.2,4486.57,Yes
+ODtY-21268,Female,1,No,No,16,No,Fiber optic,Two year,111.22,1744.55,Yes
+nWIj-41583,Male,0,Yes,Yes,23,Yes,DSL,Month-to-month,44.99,995.64,Yes
+rzsW-03321,Female,1,Yes,No,3,No,DSL,Month-to-month,67.33,181.45,No
+ORav-05198,Male,1,No,No,22,No,DSL,Two year,63.19,1429.45,Yes
+LDCY-58906,Male,0,Yes,Yes,61,No,No,Two year,23.98,1432.23,No
+ksTk-48491,Male,1,Yes,Yes,5,No,Fiber optic,One year,99.65,542.18,No
+WRbe-54642,Female,0,Yes,No,34,No,No,Month-to-month,22.66,735.85,Yes
+NvnQ-58921,Male,1,No,No,14,Yes,Fiber optic,Two year,117.28,1661.73,Yes
+lVaK-64781,Male,1,No,No,20,Yes,DSL,Month-to-month,67.06,1358.08,No
+jArU-80939,Male,1,No,Yes,34,Yes,No,One year,25.5,838.91,No
+oAKf-15407,Male,1,No,Yes,35,No,Fiber optic,One year,92.36,3200.42,Yes
+iwhu-44062,Male,0,Yes,Yes,54,Yes,No,Two year,28.83,1605.78,No
+nakm-93388,Female,1,Yes,No,21,Yes,DSL,Two year,54.67,1149.63,No
+hJua-46115,Male,0,No,No,16,No,DSL,Two year,43.85,728.49,No
+SLsR-90659,Male,1,No,No,31,No,Fiber optic,Month-to-month,89.09,2763.42,Yes
+JBiO-33817,Male,0,Yes,No,26,Yes,No,One year,24.94,639.65,No
+TZzA-47562,Male,1,Yes,Yes,31,No,DSL,Month-to-month,65.46,1990.98,Yes
+wILO-03775,Male,0,Yes,Yes,39,Yes,DSL,Month-to-month,42.46,1691.32,Yes
+iMen-52174,Male,1,Yes,No,23,Yes,Fiber optic,Month-to-month,80.59,1902.41,Yes
+lNwE-53263,Male,0,No,Yes,49,No,DSL,One year,58.83,2889.98,No
+MBLj-74538,Male,0,No,No,60,No,Fiber optic,Two year,111.28,6645.48,No
+lfvk-67692,Male,0,Yes,Yes,2,No,Fiber optic,Month-to-month,105.74,162.64,Yes
+sdEw-25493,Female,0,Yes,Yes,4,No,DSL,One year,55.63,184.87,No
+EPoM-47049,Female,1,No,Yes,3,Yes,DSL,Two year,59.17,179.42,No
+EUzD-55370,Female,0,No,Yes,60,No,Fiber optic,Two year,86.06,5148.53,No
+bYHG-82350,Female,0,Yes,No,68,Yes,Fiber optic,One year,115.37,7862.99,No
+xjDb-86217,Male,1,Yes,No,33,Yes,No,One year,31.79,1028.85,No
+FaZC-60605,Male,0,No,Yes,20,Yes,No,Month-to-month,31.71,594.27,No
+qQxG-39631,Male,0,No,Yes,55,Yes,DSL,One year,51.98,2906.27,Yes
+bLSe-02568,Female,1,No,Yes,12,Yes,Fiber optic,One year,79.63,915.69,Yes
+adTS-88158,Male,0,No,Yes,49,Yes,DSL,Two year,68.9,3372.31,No
+lVns-03818,Female,1,Yes,Yes,10,No,Fiber optic,Two year,78.16,808.27,Yes
+gbKT-70438,Female,0,No,No,31,Yes,No,One year,27.66,865.59,No
+oPTq-65825,Female,1,Yes,Yes,10,Yes,Fiber optic,Two year,88.76,915.86,Yes
+AMRB-64648,Male,1,Yes,Yes,61,Yes,No,Two year,20.22,1196.07,No
+JyDg-98499,Female,1,No,No,51,No,DSL,Two year,48.29,2493.48,No
+UrZT-99357,Female,1,No,No,10,Yes,No,One year,31.99,344.98,Yes
+MWgM-77416,Female,0,Yes,No,37,No,Fiber optic,Two year,70.63,2644.62,Yes
+nvlx-92107,Male,0,No,Yes,34,Yes,DSL,One year,62.97,2122.81,Yes
+UBQc-90178,Female,0,Yes,Yes,44,Yes,No,One year,23.1,1052.67,No
+IrxG-68149,Male,1,Yes,Yes,5,No,DSL,One year,63.08,360.13,No
+Oyka-18287,Male,0,No,Yes,38,Yes,Fiber optic,One year,96.8,3644.82,No
+PVEc-15247,Male,1,Yes,Yes,37,Yes,Fiber optic,One year,112.76,4186.12,No
+vaIb-01936,Male,0,Yes,No,62,Yes,Fiber optic,Two year,111.34,6861.12,No
+KoPe-14319,Female,1,Yes,No,23,Yes,No,Two year,32.89,766.88,No
+OygB-82523,Female,0,Yes,Yes,72,No,Fiber optic,Month-to-month,105.72,7641.47,No
+xvuc-54008,Female,0,Yes,Yes,6,No,No,Month-to-month,24.36,130.14,Yes
+naqw-26024,Male,0,Yes,No,31,No,Fiber optic,Two year,94.91,2940.41,No
+jTqi-21178,Male,0,No,Yes,6,No,DSL,One year,48.36,283.13,No
+DDoi-13292,Male,1,No,No,51,No,DSL,One year,57.08,2923.64,No
+hmWV-94843,Female,1,Yes,No,15,Yes,DSL,Month-to-month,58.77,905.83,Yes
+kTRA-30185,Female,0,No,Yes,30,No,DSL,One year,46.8,1356.5,Yes
+ESvR-46066,Male,1,Yes,Yes,25,Yes,Fiber optic,One year,107.51,2729.53,No
+BQYk-57210,Female,0,Yes,No,60,Yes,Fiber optic,One year,86.02,5185.02,Yes
+stBp-32264,Female,0,No,No,57,Yes,No,Month-to-month,29.78,1667.77,No
+eRFC-95949,Female,0,Yes,Yes,32,Yes,DSL,Month-to-month,67.01,2193.89,No
+OKCR-56618,Male,1,No,Yes,65,No,Fiber optic,One year,77.85,5020.67,No
+SPcY-83036,Male,0,Yes,No,16,Yes,Fiber optic,One year,89.51,1414.66,No
+phLF-06884,Male,0,Yes,Yes,37,No,DSL,Month-to-month,50.45,1915.05,Yes
+GXRo-35519,Female,1,No,Yes,15,No,Fiber optic,Month-to-month,82.05,1201.78,Yes
+hVOX-74610,Female,1,No,Yes,63,Yes,DSL,Two year,54.08,3440.83,No
+hLYW-89639,Male,1,Yes,No,39,No,No,Two year,23.72,882.25,Yes
+lMKD-23225,Female,1,Yes,No,40,No,No,One year,22.91,949.07,No
+HdHj-84108,Male,0,Yes,Yes,6,No,No,Two year,22.55,127.96,Yes
+WOOf-14898,Male,0,No,Yes,61,No,Fiber optic,Two year,112.52,6881.91,No
+Rzwq-06630,Female,1,Yes,No,14,Yes,No,Two year,32.46,417.01,No
+TXNn-55531,Female,1,No,No,35,No,DSL,Month-to-month,52.96,1819.95,No
+OWIH-94226,Male,0,Yes,No,36,No,DSL,Month-to-month,69.65,2546.11,No
+YWSK-01709,Male,1,Yes,No,66,Yes,DSL,One year,77.07,5050.92,No
+SNNN-87982,Male,1,No,Yes,22,No,No,Two year,19.47,422.27,Yes
+PIjW-58923,Female,0,Yes,No,9,No,Fiber optic,Month-to-month,105.69,952.87,No
+eHmP-21320,Male,1,Yes,No,4,No,Fiber optic,One year,74.14,302.65,Yes
+mdvg-70122,Male,0,No,Yes,24,No,Fiber optic,Two year,88.17,2081.61,Yes
+CGYi-19578,Female,0,No,No,48,Yes,Fiber optic,Month-to-month,89.53,4331.83,Yes
+MRrS-66650,Male,1,No,Yes,39,No,Fiber optic,Two year,83.73,3235.08,Yes
+MhXr-20821,Female,0,No,Yes,61,No,No,Two year,22.44,1391.11,No
+vkce-96859,Female,0,Yes,Yes,53,No,No,Month-to-month,22.69,1213.44,No
+rynn-19610,Female,1,Yes,Yes,15,Yes,No,Month-to-month,29.74,494.79,Yes
+qeaB-22791,Female,1,Yes,No,40,No,No,Two year,19.09,802.29,No
+tVAU-57391,Male,0,Yes,Yes,35,No,DSL,Two year,52.59,1885.51,Yes
+FQFm-10166,Female,0,No,No,68,Yes,Fiber optic,One year,80.69,5452.52,No
+HcZa-87984,Female,0,Yes,Yes,39,Yes,No,Month-to-month,30.57,1173.48,No
+Khyh-34146,Male,1,Yes,Yes,14,Yes,No,Month-to-month,29.55,416.96,No
+AxcK-59804,Male,1,No,Yes,12,Yes,No,One year,31.03,392.87,Yes
+RnyV-81463,Female,1,No,No,18,Yes,No,Month-to-month,27.23,496.29,No
+rMGc-62084,Female,0,Yes,Yes,29,No,DSL,Month-to-month,53.5,1538.72,No
+CVXn-86474,Female,1,No,Yes,66,Yes,DSL,Two year,59.85,3963.08,No
+qHSo-53181,Male,0,Yes,No,59,No,No,Two year,19.82,1186.75,No
+xhIc-97801,Female,0,No,Yes,50,No,DSL,One year,46.06,2307.08,No
+bffA-41951,Female,1,Yes,Yes,10,Yes,DSL,Month-to-month,67.32,633.59,Yes
+FWFg-42469,Male,0,Yes,No,35,Yes,DSL,Month-to-month,63.72,2194.92,Yes
+maTs-48851,Male,0,Yes,Yes,65,No,DSL,Two year,43.25,2766.85,No
+efsj-30674,Female,0,Yes,No,55,Yes,Fiber optic,Two year,103.37,5667.63,No
+svCG-97784,Female,0,No,Yes,36,No,No,Two year,21.14,722.24,No
+rDlf-17047,Male,1,No,Yes,70,No,Fiber optic,One year,111.25,7761.43,Yes
+lsiA-61205,Male,0,No,Yes,2,No,No,Two year,19.56,23.07,Yes
+fAsr-63838,Female,0,No,Yes,52,No,DSL,Month-to-month,66.54,3432.87,No
+ebmn-94246,Male,0,No,No,28,Yes,No,Month-to-month,22.31,596.56,No
+KHpk-43603,Male,0,Yes,Yes,31,No,DSL,One year,68.6,2121.2,No
+iLRc-12983,Male,0,Yes,No,14,Yes,No,Two year,30.88,433.96,No
+lryA-69301,Male,0,No,No,66,Yes,No,One year,27.76,1819.71,No
+HzsT-47343,Female,1,Yes,No,66,No,Fiber optic,Two year,114.24,7531.23,No
+gsnC-55108,Male,0,Yes,Yes,41,Yes,No,Month-to-month,25.59,1068.31,No
+nRXu-44038,Male,1,Yes,No,37,Yes,Fiber optic,Month-to-month,79.91,2981.0,No
+gGcc-33310,Male,1,No,No,50,No,DSL,Month-to-month,44.52,2199.7,Yes
+XSkV-91136,Female,0,Yes,Yes,47,Yes,No,Month-to-month,31.04,1441.79,No
+dGbK-05785,Male,1,Yes,No,34,No,DSL,One year,52.17,1732.23,No
+GXtk-18695,Male,1,Yes,Yes,29,No,No,One year,19.96,547.67,No
+TUnh-71605,Female,1,Yes,Yes,53,Yes,DSL,Two year,63.27,3340.78,No
+UfcA-22483,Male,1,Yes,No,59,Yes,No,Two year,26.96,1603.35,Yes
+lRxQ-65451,Male,1,No,No,68,No,DSL,Two year,53.08,3596.35,No
+iweC-53396,Male,0,Yes,Yes,69,Yes,Fiber optic,Month-to-month,87.8,6061.98,No
+QiwH-28499,Female,0,No,No,27,No,Fiber optic,One year,76.4,2078.54,No
+ArJN-68866,Female,0,Yes,No,37,Yes,No,Two year,24.75,872.09,Yes
+kGGO-68817,Female,0,No,No,67,Yes,Fiber optic,One year,86.57,5796.44,No
+dxeg-66684,Female,0,Yes,Yes,50,Yes,Fiber optic,One year,114.92,5749.68,No
+gxAt-41661,Female,0,No,No,58,Yes,No,One year,24.03,1364.38,No
+ekvo-24913,Male,1,Yes,Yes,39,No,No,One year,19.56,780.42,No
+vbTp-39655,Male,0,Yes,Yes,70,Yes,DSL,One year,61.56,4356.76,Yes
+VGne-47414,Female,1,Yes,Yes,23,Yes,Fiber optic,Month-to-month,82.81,1951.03,No
+nsVg-14086,Female,0,No,No,29,Yes,Fiber optic,Two year,84.81,2489.0,No
+egmY-64536,Female,0,Yes,No,37,No,DSL,Two year,53.24,1956.44,No
+pdIx-85426,Male,0,Yes,Yes,36,Yes,DSL,Two year,64.13,2336.66,No
+tPrS-29741,Female,0,Yes,No,23,No,Fiber optic,One year,91.82,2116.89,Yes
+Yqnd-41841,Female,0,Yes,Yes,26,No,No,Month-to-month,19.71,507.48,Yes
+UoYt-04900,Female,0,Yes,No,4,No,Fiber optic,One year,97.02,406.56,No
+oLNC-27630,Male,0,Yes,No,32,No,Fiber optic,Month-to-month,104.2,3375.76,Yes
+GwYB-96848,Male,0,No,No,24,Yes,DSL,Two year,55.75,1302.65,No
+OEHx-93301,Female,1,No,No,14,No,No,Month-to-month,21.17,289.2,Yes
+ORxG-89909,Male,1,Yes,No,57,No,DSL,One year,42.69,2481.59,No
+JPag-32548,Male,0,Yes,Yes,57,No,No,Two year,20.1,1122.88,No
+MHKP-55466,Male,0,Yes,No,47,Yes,DSL,One year,50.05,2374.24,No
+ePKm-30099,Female,1,No,No,10,No,No,One year,21.17,247.65,No
+KiNT-83950,Male,0,Yes,No,40,No,DSL,Two year,61.89,2455.23,Yes
+IJyG-23947,Male,0,No,Yes,39,No,Fiber optic,One year,91.48,3521.96,Yes
+eHJf-60745,Female,1,Yes,No,29,No,Fiber optic,Month-to-month,100.94,2885.44,No
+ttBQ-35096,Male,0,Yes,No,39,Yes,Fiber optic,One year,112.03,4404.61,Yes
+NQOB-40399,Male,1,No,No,37,Yes,DSL,Month-to-month,75.88,2763.81,No
+oApJ-92773,Male,0,No,No,51,Yes,No,One year,25.04,1310.71,No
+XuyE-73211,Male,1,Yes,Yes,1,No,Fiber optic,Two year,99.87,124.54,Yes
+jGRV-35910,Male,0,No,No,34,Yes,No,Two year,23.72,855.66,No
+tUxk-23821,Female,1,Yes,Yes,43,Yes,Fiber optic,Month-to-month,113.63,4908.82,No
+XtzO-99011,Female,1,No,Yes,71,Yes,DSL,Month-to-month,65.66,4682.28,Yes
+PQsY-38710,Female,0,Yes,No,56,Yes,DSL,One year,62.43,3508.78,No
+uXIN-60276,Male,1,Yes,Yes,13,No,Fiber optic,Month-to-month,94.59,1196.49,Yes
+ZNYe-54312,Male,1,Yes,No,71,Yes,No,Two year,27.38,1916.67,No
+kxBI-51739,Female,0,No,Yes,66,No,DSL,Month-to-month,45.91,2988.76,No
+HGwS-74292,Female,1,Yes,Yes,26,Yes,DSL,One year,50.61,1290.9,Yes
+xkDH-18225,Male,0,Yes,No,39,Yes,DSL,One year,69.5,2731.22,No
+TAen-57967,Female,1,Yes,Yes,7,Yes,Fiber optic,Month-to-month,89.99,630.28,Yes
+FHew-92808,Male,0,No,Yes,5,No,Fiber optic,Two year,91.97,501.65,Yes
+PjNV-79874,Male,0,No,Yes,60,Yes,No,One year,20.79,1284.92,No
+cooP-03740,Female,0,Yes,No,14,No,Fiber optic,Month-to-month,78.5,1111.74,No
+ubLq-05033,Female,1,Yes,No,36,No,No,Two year,22.77,787.23,No
+DXpl-68908,Female,1,Yes,Yes,21,Yes,Fiber optic,One year,110.25,2340.44,No
+PYtj-04902,Male,1,Yes,No,42,No,No,One year,19.85,798.34,No
+zWKb-16051,Male,1,Yes,No,43,No,Fiber optic,Month-to-month,77.82,3387.5,No
+bTNJ-49327,Female,1,No,No,55,Yes,Fiber optic,One year,115.06,6329.52,Yes
+dRdh-16886,Female,1,No,No,35,Yes,DSL,Month-to-month,66.05,2333.16,Yes
+eXis-82490,Female,0,Yes,No,24,Yes,No,One year,27.15,696.03,Yes
+RVOr-98429,Male,0,No,No,42,Yes,No,One year,25.39,1083.43,No
+yqxI-47037,Female,1,No,No,50,No,No,Two year,22.33,1162.59,Yes
+CIkn-63466,Male,1,Yes,Yes,42,No,No,One year,22.94,943.44,No
+SSsu-82218,Female,0,Yes,Yes,36,Yes,DSL,One year,52.03,1870.9,No
+IOXP-92479,Male,0,Yes,No,59,Yes,DSL,Two year,69.76,4142.76,No
+jJCV-29237,Male,1,Yes,No,53,No,DSL,Two year,59.98,3136.07,No
+ZZLZ-62980,Female,0,No,Yes,34,Yes,Fiber optic,Two year,92.38,3128.88,Yes
+quBw-38167,Female,1,No,No,37,No,No,Month-to-month,24.06,853.35,No
+Rhct-16553,Male,0,Yes,Yes,44,Yes,Fiber optic,Month-to-month,107.31,4725.16,No
+uteq-24649,Male,1,No,Yes,6,Yes,DSL,Month-to-month,56.74,386.55,No
+prtI-15282,Male,1,No,No,45,No,DSL,One year,64.91,2930.91,No
+wIrb-85627,Male,0,Yes,Yes,14,Yes,Fiber optic,Two year,81.35,1113.3,No
+ATqs-81734,Female,1,No,Yes,7,Yes,No,One year,29.51,232.47,No
+EAUa-48910,Male,0,Yes,Yes,63,No,No,One year,20.74,1303.56,No
+EwKU-15823,Female,1,Yes,No,28,No,No,Two year,20.8,536.01,No
+YBrb-68669,Male,1,Yes,No,30,Yes,DSL,One year,48.78,1503.34,No
+MOAv-73844,Female,1,Yes,No,16,Yes,Fiber optic,Month-to-month,95.92,1505.73,Yes
+DYuh-81420,Female,0,No,Yes,7,No,DSL,One year,62.27,478.95,No
+JQQS-67539,Male,1,Yes,Yes,45,Yes,No,Month-to-month,27.2,1217.1,No
+mJFA-70182,Male,1,Yes,Yes,56,Yes,DSL,Month-to-month,63.38,3522.96,Yes
+isCd-80041,Male,1,No,Yes,66,No,No,Two year,20.22,1313.43,No
+tnDe-17223,Female,1,No,No,20,No,Fiber optic,Two year,99.17,1956.31,No
+LUDx-32204,Male,0,Yes,Yes,59,Yes,No,Two year,30.68,1796.7,No
+AVuO-85529,Female,1,Yes,No,62,No,Fiber optic,One year,98.71,6087.7,No
+yCuM-71508,Male,0,No,No,21,Yes,No,Month-to-month,25.48,556.48,No
+HJlv-38388,Female,0,No,Yes,32,No,DSL,Month-to-month,66.21,2147.86,No
+bVUh-18106,Male,1,No,No,62,No,No,Two year,22.09,1373.56,No
+bHcz-57735,Female,1,No,Yes,72,Yes,DSL,Month-to-month,53.61,3837.84,Yes
+jtui-60826,Male,0,Yes,Yes,59,Yes,No,One year,30.51,1847.2,No
+purf-71651,Female,1,Yes,No,31,Yes,Fiber optic,One year,92.78,2898.98,Yes
+ndou-66238,Female,0,Yes,No,20,No,DSL,One year,41.84,849.89,No
+GXZk-18781,Male,0,Yes,Yes,19,No,Fiber optic,Two year,70.78,1306.59,Yes
+FJrg-15203,Female,0,Yes,No,27,Yes,Fiber optic,Two year,91.01,2466.83,No
+KGFA-60852,Female,1,No,No,9,Yes,Fiber optic,One year,111.02,1022.75,No
+eGnv-93047,Female,0,No,Yes,51,Yes,DSL,One year,44.61,2228.0,No
+WlLm-03349,Female,1,Yes,No,6,Yes,DSL,Two year,67.74,409.88,No
+fHUa-97176,Female,0,No,Yes,22,Yes,No,Month-to-month,20.72,434.27,No
+IbHB-36815,Female,1,No,Yes,50,Yes,DSL,Two year,59.76,2985.09,No
+luuU-60218,Female,1,No,Yes,3,Yes,Fiber optic,Two year,90.67,316.51,No
+YHEA-56680,Female,1,Yes,No,32,No,No,Two year,24.02,743.12,Yes
+RKDn-60429,Male,0,No,No,20,Yes,DSL,Month-to-month,63.34,1303.97,Yes
+WDgB-08608,Female,1,No,Yes,1,No,DSL,One year,55.78,55.78,No
+AUMq-14084,Female,1,No,Yes,55,Yes,No,One year,24.11,1292.85,No
+MSuK-04565,Male,0,No,Yes,53,No,DSL,Two year,46.28,2491.21,No
+XiAg-61413,Female,0,Yes,No,41,Yes,DSL,One year,61.11,2545.56,No
+YobA-25080,Male,0,Yes,Yes,39,No,Fiber optic,Two year,86.28,3362.4,Yes
+eilR-21568,Female,0,No,Yes,23,No,DSL,Two year,67.86,1551.61,No
+VwwN-03325,Female,1,No,No,38,No,Fiber optic,Month-to-month,84.92,3268.83,Yes
+jKOl-20836,Male,0,Yes,No,46,No,No,One year,23.67,1049.99,Yes
+WXPt-87707,Male,0,No,No,22,Yes,Fiber optic,One year,98.58,2159.16,No
+SIkB-64564,Male,0,Yes,Yes,50,No,Fiber optic,Month-to-month,97.77,4920.74,Yes
+iTbq-00296,Female,0,Yes,Yes,22,No,Fiber optic,Month-to-month,101.29,2206.4,No
+rfZQ-29630,Male,1,Yes,No,52,Yes,No,Month-to-month,28.92,1539.79,Yes
+zhUO-47000,Female,1,No,Yes,46,No,Fiber optic,One year,71.44,3244.75,Yes
+LEve-24065,Female,1,Yes,Yes,48,Yes,No,One year,31.68,1486.02,Yes
+Mtbh-77579,Male,0,No,Yes,2,Yes,DSL,One year,68.94,180.49,Yes
+hlOG-52922,Female,1,Yes,No,28,No,DSL,One year,54.29,1488.46,No
+AziO-22951,Male,1,Yes,Yes,30,No,No,One year,22.32,688.06,No
+EvvF-57977,Female,1,No,No,30,Yes,DSL,Two year,50.37,1557.44,Yes
+GFEV-42136,Female,0,No,No,35,No,DSL,Two year,69.41,2437.9,No
+KlUD-91443,Female,0,Yes,No,37,Yes,Fiber optic,Two year,115.87,4311.08,Yes
+NQYb-44335,Male,1,No,No,26,Yes,No,One year,28.0,754.68,No
+HdVX-12962,Male,1,Yes,No,33,No,DSL,One year,66.92,2244.35,No
+gUqJ-20694,Male,0,No,No,64,Yes,Fiber optic,One year,110.65,7121.67,No
+ljsG-06967,Male,1,Yes,No,19,No,Fiber optic,Two year,104.54,2014.4,No
+tFTk-62258,Female,1,Yes,No,32,Yes,Fiber optic,Two year,96.73,3118.36,Yes
+UgsG-80865,Male,1,Yes,Yes,10,No,Fiber optic,Month-to-month,97.41,1020.6,Yes
+YxfH-27094,Male,1,No,Yes,51,Yes,No,Month-to-month,30.44,1577.11,No
+yYjv-59441,Female,0,Yes,No,19,No,No,One year,20.65,388.43,No
+uTqC-99865,Male,0,No,No,60,No,DSL,One year,66.28,3978.09,No
+bGMY-69400,Male,0,No,No,19,No,No,One year,20.31,389.35,Yes
+zqbl-63111,Female,0,Yes,Yes,47,No,Fiber optic,Two year,113.39,5338.28,Yes
+SiVS-14624,Female,1,Yes,No,68,Yes,No,Month-to-month,27.42,1857.31,No
+zZBy-36010,Female,0,No,No,40,No,DSL,Two year,58.25,2342.18,No
+CqfP-14452,Female,1,Yes,Yes,22,No,DSL,One year,44.22,1014.03,No
+xIdj-25830,Male,1,No,Yes,15,No,No,Month-to-month,24.26,340.24,Yes
+Kyqu-44234,Male,1,No,Yes,42,No,DSL,Month-to-month,58.29,2475.91,No
+wsEl-25094,Female,1,No,No,8,Yes,Fiber optic,One year,90.87,695.38,No
+uKKe-74102,Female,1,No,No,69,Yes,DSL,One year,69.13,4818.12,No
+GIig-59257,Female,1,Yes,Yes,3,Yes,DSL,One year,71.18,254.31,No
+QwiC-83654,Female,0,No,Yes,24,Yes,Fiber optic,Month-to-month,89.41,2173.9,Yes
+JrGS-39931,Female,1,No,Yes,34,No,No,One year,22.95,819.45,Yes
+hXSr-79396,Male,0,No,Yes,59,No,DSL,Two year,63.77,3752.41,No
+bMXE-19589,Female,1,No,No,44,Yes,DSL,Two year,63.6,2805.82,No
+fADW-47868,Male,0,Yes,Yes,13,Yes,DSL,One year,50.43,688.09,Yes
+GDWV-95083,Male,1,Yes,Yes,65,Yes,No,Two year,28.96,1889.08,No
+kaVs-89974,Male,1,Yes,No,45,Yes,No,One year,25.94,1190.56,No
+WAsS-59765,Male,1,No,Yes,64,No,Fiber optic,Month-to-month,109.95,7065.74,Yes
+LeXL-25165,Male,0,Yes,No,8,Yes,Fiber optic,Two year,115.3,960.88,Yes
+GOLk-42439,Female,0,Yes,Yes,60,No,Fiber optic,One year,85.79,5119.79,No
+jtoa-59338,Female,1,Yes,No,21,No,No,Two year,24.7,562.0,No
+naHj-27859,Male,1,Yes,No,34,No,DSL,Two year,66.74,2242.69,No
+iXzB-93379,Female,1,Yes,Yes,50,Yes,DSL,Month-to-month,55.1,2781.47,Yes
+rdeQ-09297,Female,1,Yes,No,51,No,No,Month-to-month,19.39,1012.95,No
+DbSU-63292,Male,0,No,No,33,No,Fiber optic,Two year,84.73,2760.75,No
+IDXK-02457,Male,0,No,No,41,Yes,Fiber optic,Month-to-month,117.58,4782.57,No
+yjkP-62947,Female,1,Yes,Yes,20,Yes,No,Month-to-month,30.03,574.65,Yes
+rrLx-77069,Female,0,No,Yes,57,Yes,DSL,One year,62.26,3588.18,Yes
+oUKF-78590,Female,0,Yes,Yes,17,No,Fiber optic,One year,73.8,1269.16,No
+uwBz-68390,Female,1,No,Yes,52,Yes,Fiber optic,One year,119.03,6189.48,No
+PJhY-01246,Male,1,Yes,Yes,66,Yes,Fiber optic,Month-to-month,89.68,5871.81,No
+hbQp-12553,Female,1,No,No,6,No,DSL,One year,66.76,392.53,Yes
+Wlmi-18454,Male,1,No,No,60,No,No,Two year,23.67,1392.83,No
+gcwA-72890,Male,0,No,Yes,1,No,Fiber optic,One year,71.73,71.73,Yes
+fygB-64296,Male,1,Yes,No,62,Yes,Fiber optic,One year,111.81,6977.28,No
+OxPs-19378,Female,0,Yes,No,17,Yes,Fiber optic,One year,119.9,2053.19,No
+WREN-50683,Female,0,Yes,No,49,No,DSL,Month-to-month,55.58,2760.79,Yes
+DVfD-44751,Male,0,No,No,38,Yes,DSL,Two year,54.07,2101.35,No
+mCAl-33967,Female,0,No,No,22,No,No,Two year,19.07,441.06,No
+XZQc-31061,Male,1,No,No,44,Yes,DSL,Two year,68.45,3039.18,No
+saHc-97331,Female,1,No,No,45,Yes,DSL,Two year,52.84,2347.05,No
+YVzy-05261,Male,1,No,Yes,20,Yes,No,Two year,25.8,478.03,Yes
+fdBz-22343,Female,0,Yes,Yes,71,Yes,No,Two year,22.09,1590.44,No
+qfsQ-65158,Male,0,No,No,29,No,DSL,Month-to-month,48.99,1458.7,Yes
+lNRM-49585,Female,0,Yes,No,14,No,DSL,One year,48.8,645.19,No
+SLGr-32704,Male,0,No,Yes,62,No,Fiber optic,One year,94.14,5835.21,No
+CMRq-39243,Male,1,No,Yes,49,Yes,DSL,One year,61.13,2957.05,No
+GhEI-19753,Female,1,No,No,8,No,No,Two year,20.0,120.6,No
+oLrP-60834,Female,0,Yes,Yes,62,Yes,DSL,One year,73.87,4577.55,No
+xVhp-79841,Male,0,No,No,4,Yes,Fiber optic,Month-to-month,113.94,432.04,Yes
+Ssio-19027,Male,0,No,Yes,14,Yes,No,Two year,33.7,450.47,No
+FtCc-43534,Female,1,No,Yes,58,No,Fiber optic,One year,100.78,5857.2,No
+ewpq-24567,Female,0,No,No,50,Yes,Fiber optic,One year,111.18,5594.45,No
+sqJH-08927,Female,1,No,No,57,Yes,No,One year,21.56,1182.7,Yes
+gphL-73308,Male,1,No,No,13,No,DSL,Month-to-month,60.85,828.78,No
+CUEt-65105,Male,0,Yes,No,39,No,Fiber optic,Month-to-month,112.51,4389.93,No
+rDar-93946,Female,1,Yes,Yes,21,Yes,Fiber optic,Two year,115.0,2422.11,No
+jZMh-76230,Female,0,Yes,Yes,47,No,Fiber optic,Two year,99.35,4707.14,No
+XXms-13156,Male,1,Yes,Yes,14,Yes,Fiber optic,One year,116.63,1660.64,No
+zGDM-27575,Female,0,No,Yes,5,Yes,No,One year,25.16,110.76,Yes
+mbgF-77639,Male,1,No,No,19,No,No,One year,21.82,404.36,Yes
+eAlz-98546,Female,1,No,Yes,46,Yes,No,Two year,24.33,1137.21,No
+ucYQ-47567,Female,1,Yes,Yes,63,Yes,Fiber optic,Month-to-month,77.47,4842.17,No
+rcZs-55817,Female,0,Yes,Yes,33,Yes,DSL,One year,60.1,1944.6,Yes
+qbEN-92383,Female,0,No,No,52,No,No,Two year,20.52,1114.96,No
+LbDw-63011,Female,1,Yes,No,42,No,DSL,Month-to-month,42.0,1730.3,Yes
+imGn-30352,Male,0,Yes,Yes,41,Yes,Fiber optic,Month-to-month,76.48,3132.23,No
+QfMW-88353,Male,1,No,No,63,Yes,DSL,Two year,56.83,3601.36,No
+bgUX-66988,Male,1,Yes,No,58,Yes,Fiber optic,One year,85.1,4898.18,No
+mWjd-01337,Female,1,No,No,35,Yes,DSL,Month-to-month,49.2,1693.53,No
+hKLs-52724,Female,0,No,No,14,No,DSL,One year,65.62,966.48,No
+qUba-06291,Female,1,Yes,Yes,43,No,No,One year,20.57,846.82,Yes
+rrKK-35040,Male,0,Yes,Yes,28,Yes,DSL,Two year,64.36,1784.84,No
+RHud-18391,Male,0,Yes,No,8,No,No,Two year,21.65,172.99,No
+vKKB-27700,Male,0,No,Yes,65,No,DSL,Two year,47.93,3145.56,No
+SduV-88073,Female,1,Yes,Yes,31,No,Fiber optic,Month-to-month,98.63,3050.81,Yes
+bWlx-96737,Female,1,Yes,Yes,70,Yes,No,Month-to-month,29.25,2053.35,No
+Vvrr-58571,Male,0,Yes,No,59,Yes,Fiber optic,One year,92.94,5526.98,No
+ESZl-97782,Male,0,No,No,30,Yes,No,Two year,24.75,758.27,No
+kLdf-34600,Male,0,No,Yes,54,No,No,Two year,20.62,1133.02,No
+Ykhm-08176,Female,1,Yes,No,65,No,DSL,One year,45.25,2922.42,No
+eHXB-99499,Female,0,Yes,No,45,No,Fiber optic,Month-to-month,94.26,4250.99,No
+qxgO-67347,Male,0,No,No,8,No,Fiber optic,One year,78.71,582.43,Yes
+URMk-27821,Male,0,Yes,Yes,17,No,DSL,Two year,61.08,1073.76,No
+eGfa-89507,Male,0,Yes,Yes,64,No,Fiber optic,Two year,111.23,7119.23,No
+DnnX-36437,Male,0,No,No,53,No,No,One year,21.17,1159.06,No
+exbI-73254,Female,1,No,Yes,21,No,DSL,Two year,60.49,1274.18,No
+JCHc-27665,Female,1,Yes,No,54,No,Fiber optic,One year,73.42,3974.18,No
+vImc-91762,Male,1,Yes,Yes,66,No,No,One year,23.34,1587.21,No
+tUIZ-26741,Male,1,No,No,61,Yes,DSL,Month-to-month,62.48,3817.83,No
+LVtZ-97213,Male,1,No,Yes,14,Yes,No,One year,25.83,325.36,Yes
+ddcB-57864,Male,0,No,Yes,7,Yes,DSL,One year,48.29,294.06,Yes
+DEAb-64748,Male,1,No,No,26,No,Fiber optic,Two year,98.38,2541.49,No
+KeFN-42306,Male,0,No,No,27,No,DSL,Two year,62.55,1671.09,Yes
+DFfx-11281,Female,1,No,Yes,68,Yes,Fiber optic,One year,81.7,5589.63,No
+VzjX-48249,Female,0,No,Yes,16,Yes,DSL,Month-to-month,76.65,1208.74,No
+Uwxp-48409,Male,1,Yes,Yes,17,Yes,Fiber optic,Two year,74.4,1305.52,No
+VpVv-68961,Female,0,Yes,No,61,No,Fiber optic,One year,89.97,5515.77,No
+UqdG-47722,Male,0,Yes,Yes,34,No,DSL,Two year,46.5,1586.83,No
+fCMs-64314,Female,0,Yes,Yes,59,Yes,Fiber optic,One year,86.05,5042.55,No
+piUU-75652,Female,0,No,No,2,Yes,No,One year,31.94,106.63,No
+Hkan-94611,Male,0,Yes,Yes,23,No,DSL,Month-to-month,53.99,1254.72,Yes
+wjvy-88287,Female,1,Yes,Yes,25,No,No,One year,24.96,581.75,Yes
+sxOp-54784,Male,0,No,Yes,13,No,DSL,Month-to-month,65.33,819.89,Yes
+GKuA-10792,Male,1,Yes,No,44,Yes,DSL,Two year,67.63,2941.91,Yes
+HhOv-88659,Male,0,No,No,31,No,DSL,Two year,54.56,1657.6,Yes
+IUWA-13654,Male,0,Yes,Yes,25,No,DSL,Month-to-month,42.06,1041.57,No
+yRqx-56042,Female,1,No,Yes,1,Yes,No,Two year,28.74,53.55,No
+Sdrq-86739,Male,0,No,No,15,Yes,No,Month-to-month,20.5,332.95,Yes
+fBCw-30884,Male,0,Yes,Yes,32,No,Fiber optic,One year,84.79,2730.52,No
+nRje-22668,Male,0,No,No,26,No,Fiber optic,Month-to-month,112.73,2952.61,Yes
+JBvE-59384,Male,1,No,No,69,Yes,Fiber optic,One year,105.73,7299.58,No
+XnIn-95566,Female,0,Yes,No,6,No,DSL,One year,64.47,409.81,No
+NaVP-94013,Male,1,Yes,Yes,21,Yes,No,One year,23.83,529.47,Yes
+dzkR-58668,Male,0,Yes,No,35,No,No,One year,20.19,718.62,No
+yJnA-19621,Male,1,No,No,68,Yes,DSL,Month-to-month,63.0,4252.75,No
+ciPv-11858,Male,1,Yes,Yes,38,Yes,DSL,One year,59.66,2297.41,No
+Nkzb-67294,Male,1,Yes,Yes,19,Yes,DSL,Month-to-month,56.26,1020.28,No
+ZoNd-03599,Female,0,No,Yes,8,Yes,No,Month-to-month,27.88,184.94,Yes
+WwvL-95559,Male,1,No,Yes,47,Yes,DSL,One year,60.68,2806.96,No
+Jzds-45992,Male,1,No,Yes,16,Yes,Fiber optic,Month-to-month,110.13,1746.22,Yes
+YgfM-60095,Female,0,No,No,46,Yes,DSL,Two year,60.53,2810.7,No
+EbME-50044,Male,0,No,No,25,Yes,No,Month-to-month,30.35,791.3,No
+zffp-72517,Female,1,Yes,Yes,18,Yes,DSL,Two year,63.77,1191.66,Yes
+OHRw-83447,Male,0,No,No,55,No,DSL,Two year,56.83,3109.37,No
+ECzd-34533,Male,0,No,No,19,Yes,DSL,One year,53.28,1062.39,No
+AJIt-82310,Female,0,No,Yes,44,No,No,Two year,19.5,859.32,Yes
+VtgT-57800,Male,0,Yes,Yes,33,Yes,DSL,Two year,73.0,2384.19,Yes
+zYVV-50600,Female,1,No,No,68,Yes,No,Month-to-month,30.83,2046.77,No
+nfmo-10851,Male,0,No,Yes,40,No,No,Month-to-month,21.21,868.74,No
+dNIh-14365,Female,1,Yes,Yes,61,No,DSL,One year,62.76,3788.59,No
+TFZo-74140,Male,0,Yes,Yes,57,Yes,No,Month-to-month,29.73,1694.65,Yes
+jGVT-50067,Female,0,No,Yes,53,Yes,No,Two year,29.36,1592.56,No
+SXeL-80005,Female,0,No,Yes,52,No,DSL,One year,69.49,3636.64,No
+IYVx-69731,Male,1,Yes,Yes,57,No,Fiber optic,One year,108.79,6180.23,No
+XtrN-66792,Male,1,No,No,41,No,No,Month-to-month,24.96,986.78,Yes
+XfLP-37616,Female,1,No,Yes,37,No,DSL,Two year,53.74,1989.68,Yes
+qhkk-48094,Female,1,No,No,54,Yes,No,One year,25.66,1380.85,Yes
+ODBs-66798,Female,1,Yes,No,31,No,DSL,One year,50.31,1584.32,No
+ZYLH-22132,Female,1,No,Yes,46,No,No,Two year,22.98,1060.23,No
+ZdLZ-15847,Female,1,Yes,Yes,10,Yes,DSL,One year,73.98,690.55,Yes
+yJnO-60491,Male,1,No,Yes,52,No,Fiber optic,Month-to-month,72.42,3800.59,No
+QqYG-18727,Male,1,No,Yes,22,No,No,Month-to-month,21.33,479.07,No
+bcqE-27850,Female,1,Yes,Yes,47,Yes,No,One year,26.05,1178.71,No
+NGww-68931,Male,1,No,No,38,Yes,Fiber optic,Two year,88.47,3355.27,No
+TKGZ-11279,Female,1,No,Yes,42,Yes,Fiber optic,Month-to-month,109.24,4611.0,Yes
+aCOR-28776,Female,1,Yes,No,38,Yes,DSL,One year,66.0,2547.56,No
+axev-38553,Female,1,No,Yes,47,Yes,DSL,One year,63.41,3021.87,No
+fGNR-61193,Female,1,No,No,57,Yes,No,Two year,30.89,1737.99,No
+vJqI-83024,Male,0,Yes,No,68,No,No,One year,19.73,1316.69,No
+EEnk-48957,Female,0,No,No,22,Yes,Fiber optic,Two year,81.66,1797.0,Yes
+Zstd-80560,Female,0,Yes,No,41,Yes,Fiber optic,One year,75.38,3076.82,No
+zJMD-02176,Female,0,Yes,Yes,71,Yes,No,Two year,27.86,2021.57,No
+dcCZ-30142,Female,1,No,No,31,No,No,One year,23.69,740.03,No
+UpjE-86472,Female,0,Yes,Yes,46,No,DSL,Month-to-month,62.62,2887.08,No
+asAK-77460,Male,1,No,No,57,No,DSL,One year,52.08,2970.26,No
+wdll-44696,Female,1,No,No,56,No,Fiber optic,Two year,77.63,4395.67,Yes
+fFAz-38222,Female,0,Yes,Yes,23,No,No,Month-to-month,22.52,506.69,No
+IdfZ-42391,Female,0,Yes,Yes,50,Yes,No,Month-to-month,27.61,1394.13,Yes
+DEJj-04192,Female,1,Yes,No,53,No,DSL,Month-to-month,40.73,2155.64,No
+qfvD-64109,Female,0,No,Yes,27,No,DSL,One year,61.96,1636.92,No
+FUmE-31508,Female,1,Yes,Yes,43,No,Fiber optic,Month-to-month,100.15,4340.18,No
+VoNA-16914,Male,0,No,No,41,Yes,No,Month-to-month,21.39,878.47,Yes
+Tjey-35539,Male,0,No,No,5,No,DSL,Month-to-month,43.73,171.0,Yes
+ctsk-03758,Male,0,Yes,No,71,No,DSL,Two year,42.22,2980.62,No
+PEYq-72519,Female,1,Yes,Yes,51,Yes,No,Month-to-month,24.89,1304.42,No
+sskK-60850,Female,1,No,Yes,64,Yes,Fiber optic,Month-to-month,91.04,5857.02,No
+FpxZ-12166,Male,1,Yes,Yes,34,No,Fiber optic,Two year,104.18,3532.71,No
+qEgz-46753,Female,0,No,Yes,12,Yes,Fiber optic,Month-to-month,94.13,1162.2,No
+xxki-56325,Female,1,No,Yes,27,No,DSL,One year,59.69,1631.66,No
+onbb-16175,Male,1,Yes,No,28,Yes,Fiber optic,Two year,109.53,3113.41,Yes
+XsGI-18084,Female,1,No,Yes,19,No,Fiber optic,Two year,108.79,2086.31,No
+vhCq-54024,Male,1,Yes,No,48,Yes,DSL,Month-to-month,68.19,3299.91,No
+Bkxc-87375,Male,0,Yes,Yes,69,No,Fiber optic,One year,103.57,7167.71,No
+jqcN-49384,Female,1,No,Yes,54,No,Fiber optic,One year,113.33,6094.27,No
+kErU-23089,Male,1,No,Yes,69,No,Fiber optic,Month-to-month,112.46,7767.35,No
+VuWT-13088,Male,1,No,No,28,No,No,Month-to-month,21.55,640.01,No
+vJvE-83154,Female,0,No,Yes,56,Yes,Fiber optic,Month-to-month,112.8,6323.4,No
+JeZr-33569,Male,0,No,Yes,45,No,DSL,Month-to-month,66.21,3012.57,Yes
+JQuf-53781,Male,1,No,No,65,Yes,Fiber optic,Two year,73.22,4783.8,No
+CyQC-39785,Female,1,Yes,Yes,65,No,No,Month-to-month,24.67,1603.19,No
+Ufgr-55792,Male,1,Yes,Yes,16,No,DSL,Two year,60.17,991.11,Yes
+UUMB-87528,Female,1,Yes,Yes,54,Yes,No,Month-to-month,25.29,1386.21,No
+mgpp-18195,Male,0,No,No,49,No,No,Month-to-month,23.25,1109.77,Yes
+TUZi-25083,Female,0,No,No,38,No,DSL,Month-to-month,64.12,2389.12,No
+Hvpz-00793,Female,0,Yes,No,28,Yes,No,Month-to-month,24.15,725.3,Yes
+qXRB-48582,Female,0,No,No,49,Yes,DSL,One year,76.46,3781.95,Yes
+NvZV-20129,Male,0,No,No,39,Yes,Fiber optic,Month-to-month,92.11,3555.16,Yes
+iwAi-39703,Female,0,No,Yes,58,No,DSL,Month-to-month,62.7,3596.6,No
+WRpb-36382,Male,1,Yes,Yes,15,Yes,Fiber optic,One year,77.91,1147.54,Yes
+tdcY-23651,Female,1,No,Yes,57,Yes,DSL,Month-to-month,55.39,3146.17,No
+GtCa-67099,Female,0,Yes,No,18,No,Fiber optic,One year,114.49,2050.57,No
+VYxG-20281,Male,1,No,No,47,Yes,Fiber optic,Month-to-month,119.83,5584.9,Yes
+VbSy-23779,Male,1,No,No,43,No,DSL,One year,42.1,1829.16,No
+QavF-79674,Female,0,Yes,No,65,Yes,Fiber optic,Month-to-month,110.94,7178.32,No
+qFVE-96005,Female,0,Yes,Yes,52,No,No,Month-to-month,22.47,1211.23,Yes
+GdsX-11388,Female,0,Yes,Yes,28,Yes,DSL,One year,63.38,1824.45,No
+hVAs-03738,Female,1,No,No,11,Yes,No,One year,32.24,377.56,Yes
+WuWF-45555,Male,0,No,No,55,No,Fiber optic,Month-to-month,71.15,3877.21,Yes
+KKrF-27296,Female,0,Yes,No,28,Yes,Fiber optic,Two year,85.91,2362.5,No
+kuEM-10166,Male,1,No,Yes,3,No,Fiber optic,Two year,76.53,181.64,No
+mctk-56259,Female,0,No,Yes,62,Yes,Fiber optic,One year,91.6,5710.88,Yes
+PRap-02543,Male,0,No,Yes,20,Yes,Fiber optic,Month-to-month,106.17,2114.62,No
+MqTS-20553,Male,0,No,Yes,44,Yes,Fiber optic,Two year,79.3,3490.48,No
+hafw-67216,Male,0,Yes,No,18,Yes,Fiber optic,Two year,98.68,1804.51,No
+Cxxa-43222,Male,0,No,No,7,Yes,Fiber optic,Month-to-month,75.12,495.0,Yes
+WRNh-14912,Male,0,Yes,No,54,No,No,Two year,19.45,1027.31,Yes
+juct-13633,Female,1,Yes,No,29,No,No,One year,22.22,595.91,No
+ESud-73261,Female,1,Yes,No,37,Yes,No,Two year,21.78,820.87,No
+ialQ-22852,Male,0,No,No,34,Yes,DSL,Month-to-month,59.4,2004.34,No
+bvze-31341,Male,1,Yes,Yes,15,No,DSL,Two year,52.52,757.49,No
+hGxp-73401,Male,0,No,No,58,Yes,DSL,Two year,62.75,3658.4,Yes
+VIhH-72633,Female,0,No,Yes,36,Yes,DSL,Month-to-month,69.45,2539.11,Yes
+CebJ-85621,Female,1,Yes,Yes,17,Yes,Fiber optic,Two year,79.65,1326.24,No
+jQMF-67137,Male,0,Yes,No,32,No,Fiber optic,Two year,91.72,2972.59,No
+HYBv-19499,Female,1,Yes,No,38,No,DSL,Two year,65.88,2465.36,No
+lSUq-06368,Male,0,No,Yes,28,Yes,DSL,One year,48.03,1348.27,No
+NCcn-98463,Male,1,No,Yes,14,No,Fiber optic,One year,105.67,1432.78,No
+OAWn-42735,Female,1,Yes,No,43,Yes,No,One year,29.52,1242.57,No
+XQaz-22872,Male,0,Yes,Yes,9,No,Fiber optic,Month-to-month,84.3,738.91,Yes
+QRNL-42750,Female,0,Yes,No,64,No,Fiber optic,Month-to-month,76.11,4833.25,Yes
+aaMU-01566,Male,0,Yes,No,52,Yes,DSL,Month-to-month,60.53,3104.04,Yes
+uSYX-59085,Female,0,Yes,Yes,57,No,Fiber optic,Two year,106.94,6137.56,No
+hiSD-42065,Male,0,Yes,No,2,Yes,Fiber optic,Month-to-month,85.09,155.59,Yes
+epvf-42906,Female,1,No,Yes,60,Yes,Fiber optic,Month-to-month,85.76,5119.28,Yes
+GRod-26592,Female,0,No,Yes,20,No,No,Two year,22.6,489.69,No
+ZZEL-18938,Male,1,No,No,54,No,No,Month-to-month,19.97,1110.36,Yes
+QDoh-37990,Female,1,No,No,44,No,DSL,Two year,40.2,1722.1,No
+HlED-46830,Male,1,No,Yes,40,Yes,Fiber optic,Month-to-month,110.75,4382.5,No
+cWal-01010,Female,1,No,No,25,Yes,DSL,Two year,51.92,1267.87,No
+GANi-11865,Male,1,No,Yes,40,Yes,No,Month-to-month,26.55,1086.38,Yes
+obPs-13579,Male,0,No,Yes,35,Yes,No,Two year,30.83,1089.17,Yes
+SkAz-08751,Male,1,Yes,No,18,Yes,DSL,Two year,59.85,1060.71,Yes
+HCza-21436,Female,0,Yes,Yes,72,No,Fiber optic,Two year,73.8,5294.42,No
+cnHf-02883,Male,0,Yes,Yes,58,No,DSL,Month-to-month,57.94,3319.48,Yes
+AOeh-08478,Female,1,Yes,Yes,56,Yes,DSL,Month-to-month,49.21,2731.13,Yes
+MEga-80005,Female,1,No,Yes,36,Yes,DSL,Two year,74.5,2683.35,No
+oxoc-33510,Male,1,Yes,Yes,51,No,Fiber optic,One year,85.93,4392.72,Yes
+TuMh-29474,Male,0,Yes,Yes,23,No,Fiber optic,Two year,99.55,2273.15,Yes
+wFtk-30748,Male,1,Yes,Yes,59,No,Fiber optic,Two year,101.65,5969.57,No
+FcnX-65531,Female,1,No,No,66,Yes,Fiber optic,Month-to-month,94.18,6197.63,No
+ehPb-20438,Female,1,Yes,No,36,Yes,No,One year,22.25,797.63,No
+kMzK-99088,Female,1,No,Yes,67,No,Fiber optic,One year,77.69,5209.79,No
+ulIk-67525,Female,0,No,No,64,Yes,Fiber optic,One year,112.44,7229.3,No
+Mvca-87635,Female,0,No,No,10,No,DSL,Two year,46.85,459.63,No
+nnBf-36981,Female,1,Yes,No,51,No,No,Two year,19.59,971.98,No
+FGRF-88806,Female,0,Yes,Yes,53,Yes,No,Two year,24.23,1263.15,No
+vAUt-06466,Male,1,No,Yes,24,No,No,Two year,24.78,640.97,No
+JcLB-57374,Female,0,No,Yes,16,No,No,One year,23.71,398.18,No
+ECpe-16943,Male,0,Yes,Yes,21,Yes,DSL,Two year,45.4,923.23,No
+tMAJ-74226,Male,1,Yes,No,27,No,No,Month-to-month,19.89,500.45,Yes
+zsxV-32880,Male,0,No,Yes,65,Yes,Fiber optic,Month-to-month,113.14,7401.84,No
+jCNR-79408,Female,1,Yes,No,61,No,DSL,Month-to-month,57.51,3533.43,No
+mhSe-05701,Female,0,No,Yes,22,Yes,Fiber optic,One year,86.41,1928.2,No
+PZoB-27790,Male,1,Yes,Yes,53,No,Fiber optic,One year,108.37,5713.01,No
+qQpp-97431,Female,1,No,Yes,44,No,No,Month-to-month,24.25,1111.25,Yes
+RpQZ-43383,Male,0,No,Yes,41,Yes,DSL,One year,65.74,2733.84,Yes
+jgWq-59274,Male,0,Yes,Yes,55,No,Fiber optic,One year,98.63,5472.16,No
+umQu-71306,Female,0,Yes,Yes,7,No,No,Two year,19.54,142.13,No
+nWuR-65428,Female,0,No,Yes,7,Yes,No,Month-to-month,27.61,163.02,Yes
+BNhd-63093,Male,0,No,Yes,58,Yes,DSL,Month-to-month,48.59,2857.45,Yes
+vuue-20432,Male,0,Yes,No,40,No,DSL,Two year,44.74,1799.14,No
+nAFW-49163,Female,0,Yes,No,9,Yes,Fiber optic,Two year,111.25,1006.83,Yes
+PUky-43124,Male,1,Yes,Yes,57,Yes,Fiber optic,Two year,88.67,5007.9,No
+NlaU-41859,Female,0,Yes,Yes,40,No,No,Month-to-month,20.94,790.32,No
+oXTl-03565,Male,1,No,No,9,No,DSL,Two year,55.0,490.45,Yes
+JiWl-14950,Female,0,No,No,67,No,DSL,Month-to-month,42.9,2851.07,No
+ZSGF-64744,Female,1,No,Yes,71,No,Fiber optic,One year,71.21,5054.52,No
+fWSx-78367,Male,0,Yes,Yes,30,No,DSL,Month-to-month,64.89,1935.09,No
+rPfn-03219,Male,0,No,No,34,No,No,Two year,20.75,675.41,No
+bUhE-10940,Male,1,No,Yes,52,No,DSL,Two year,62.16,3272.88,No
+sbkB-41977,Female,1,No,No,38,No,DSL,Two year,61.86,2343.38,No
+EMnG-61283,Female,1,No,No,19,Yes,Fiber optic,Month-to-month,113.15,2126.93,No
+QEzB-54203,Male,0,No,Yes,6,No,No,Two year,23.06,173.89,No
+Xfkk-87341,Female,0,Yes,No,37,Yes,Fiber optic,Two year,87.47,3248.98,No
+tHHX-62434,Male,1,Yes,No,28,No,DSL,Two year,50.36,1362.81,No
+Txbb-30434,Female,1,No,No,24,Yes,No,Month-to-month,25.56,600.57,No
+dEGd-14472,Female,0,No,No,39,No,Fiber optic,One year,74.07,2893.59,Yes
+ITsH-77075,Female,0,No,Yes,62,No,DSL,One year,59.39,3731.79,No
+kazE-00456,Male,0,No,No,69,No,No,Month-to-month,20.08,1344.1,No
+IDPe-28583,Female,0,Yes,No,71,No,No,Two year,24.72,1802.37,No
+KkjT-65527,Female,0,No,Yes,44,Yes,Fiber optic,Month-to-month,109.27,4844.94,Yes
+dgim-23656,Female,1,No,Yes,46,No,Fiber optic,One year,95.27,4391.72,No
+bOoa-74083,Female,0,Yes,Yes,2,No,No,Month-to-month,24.8,24.8,Yes
+WVWz-50345,Female,0,No,Yes,57,Yes,DSL,Month-to-month,47.17,2685.99,Yes
+jfYz-45642,Male,1,No,Yes,47,Yes,DSL,Month-to-month,66.71,3118.24,Yes
+hlZK-85110,Female,0,Yes,Yes,10,No,No,One year,22.97,206.36,No
+qVCy-51690,Female,1,Yes,Yes,14,Yes,DSL,One year,48.44,690.89,Yes
+HoCB-90569,Female,1,No,Yes,16,No,DSL,One year,58.44,963.03,Yes
+brMi-30590,Male,1,No,Yes,36,Yes,No,One year,30.18,1074.3,No
+mSVP-77013,Male,1,No,Yes,30,Yes,No,One year,21.66,671.23,Yes
+DcBS-59217,Female,1,No,Yes,1,No,Fiber optic,Month-to-month,75.41,75.41,Yes
+OzwJ-78938,Male,0,No,Yes,26,No,Fiber optic,Month-to-month,95.69,2462.88,Yes
+SfoL-00982,Female,1,No,No,61,Yes,No,One year,26.14,1596.27,No
+oXDo-26101,Male,0,Yes,Yes,36,Yes,No,One year,26.99,990.41,Yes
+eGdn-09214,Male,1,No,Yes,69,Yes,Fiber optic,One year,109.02,7525.57,No
+rHtk-28339,Female,0,No,No,7,Yes,Fiber optic,Two year,116.34,790.33,Yes
+TyBE-22610,Male,0,No,No,44,No,No,Month-to-month,21.9,972.53,Yes
+fvwV-93459,Male,1,No,No,61,No,DSL,One year,44.57,2738.4,No
+FOmr-17338,Male,1,No,No,30,No,DSL,Month-to-month,63.07,1855.1,Yes
+lYGl-42087,Male,0,No,No,47,No,No,Month-to-month,20.83,986.07,No
+XCJj-94530,Male,0,Yes,Yes,42,Yes,No,One year,26.75,1086.35,No
+QWSP-38479,Male,0,Yes,Yes,72,No,No,Month-to-month,21.56,1539.71,No
+druJ-15199,Female,0,Yes,Yes,38,Yes,DSL,Two year,73.22,2814.65,Yes
+VfLv-71741,Male,1,No,Yes,48,No,DSL,One year,41.35,1985.54,No
+HOcy-33101,Male,1,Yes,Yes,36,No,No,Month-to-month,22.73,791.17,Yes
+BcVJ-50319,Male,1,Yes,No,37,No,No,One year,21.87,855.62,No
+ZHsn-05516,Male,0,Yes,Yes,27,Yes,No,Month-to-month,32.3,874.82,No
+lFKb-90038,Female,1,Yes,No,56,Yes,No,Month-to-month,29.27,1607.46,Yes
+taea-27273,Male,1,No,Yes,49,Yes,DSL,One year,46.15,2236.56,No
+IScO-93306,Female,0,No,No,17,Yes,Fiber optic,One year,91.89,1543.92,No
+HVXP-47304,Male,0,Yes,No,53,Yes,Fiber optic,Month-to-month,120.25,6370.21,No
+hYoG-16499,Female,0,No,Yes,38,No,Fiber optic,One year,101.34,3863.11,No
+TpYk-33021,Female,0,No,Yes,36,No,Fiber optic,Two year,106.49,3792.16,No
+VHnt-52857,Female,0,No,No,33,Yes,Fiber optic,Two year,82.48,2701.14,No
+ItuE-99278,Female,1,Yes,No,31,Yes,DSL,Two year,75.73,2397.39,No
+SCIl-12738,Female,0,Yes,No,6,Yes,No,Month-to-month,33.44,182.71,Yes
+hsPP-70460,Male,0,No,Yes,10,Yes,Fiber optic,One year,117.92,1162.09,No
+EzHC-08271,Male,0,No,No,20,Yes,Fiber optic,One year,84.67,1714.22,Yes
+gOPY-96606,Male,1,No,Yes,4,No,No,Two year,20.4,49.76,Yes
+Fqzh-98772,Male,1,Yes,Yes,59,Yes,Fiber optic,Two year,113.06,6698.67,No
+LzbQ-56439,Male,0,Yes,Yes,14,Yes,DSL,Two year,48.74,704.92,No
+vVfR-39444,Male,0,No,No,44,No,DSL,Month-to-month,55.38,2418.62,Yes
+pWHl-28572,Male,1,Yes,No,25,No,No,One year,24.75,596.16,No
+IoLf-60935,Male,1,Yes,Yes,40,Yes,DSL,Two year,69.32,2743.71,No
+xsyt-13590,Male,1,Yes,No,32,No,No,One year,22.78,735.95,No
+seWF-66773,Male,1,Yes,No,14,No,DSL,Two year,55.35,815.82,No
+eojw-64350,Female,0,Yes,Yes,19,No,No,Month-to-month,22.17,456.56,Yes
+fKJN-24855,Female,0,No,Yes,22,No,Fiber optic,Two year,72.59,1637.5,No
+vCBg-77614,Female,1,No,Yes,11,Yes,DSL,Two year,57.42,616.37,Yes
+RYLn-18350,Female,0,No,Yes,50,No,DSL,Two year,53.89,2656.23,No
+hrlY-60309,Female,1,Yes,No,48,No,DSL,Two year,48.29,2358.24,Yes
+gnJV-16504,Male,0,No,Yes,17,Yes,No,Two year,21.33,374.73,No
+IyoA-18850,Male,1,No,No,21,No,Fiber optic,One year,97.14,2005.87,No
+azNt-47620,Male,0,No,No,6,Yes,DSL,Two year,58.71,317.03,Yes
+Wnhy-60051,Female,1,Yes,Yes,35,Yes,No,One year,28.63,1005.27,No
+jOdu-58137,Male,1,Yes,Yes,3,Yes,Fiber optic,Month-to-month,93.28,250.68,No
+QFMG-57559,Male,0,No,No,20,No,Fiber optic,Month-to-month,82.25,1635.94,No
+LTKg-34919,Male,1,No,No,35,No,No,Month-to-month,20.08,727.43,Yes
+TNwU-26100,Female,1,Yes,No,16,Yes,Fiber optic,Two year,87.97,1429.31,No
+UMgI-86224,Male,0,Yes,Yes,53,No,No,Month-to-month,21.88,1162.63,Yes
+yJlY-28944,Male,0,Yes,Yes,2,Yes,DSL,Two year,68.48,99.63,No
+zpJB-25263,Male,1,Yes,Yes,27,Yes,DSL,One year,58.93,1550.17,Yes
+koJg-83085,Male,1,Yes,Yes,20,No,No,Two year,22.62,493.56,No
+JtdX-49147,Male,0,No,Yes,15,No,No,Two year,20.18,277.55,No
+exnx-56318,Female,1,No,Yes,9,No,No,Two year,20.12,226.55,Yes
+RpWH-50792,Female,0,Yes,Yes,39,Yes,No,One year,26.56,1074.75,No
+EAlF-14108,Female,0,No,No,3,Yes,DSL,Two year,56.1,142.2,No
+sJZD-28232,Female,0,No,Yes,7,Yes,Fiber optic,Month-to-month,112.4,790.88,No
+VIRY-16594,Female,1,No,No,41,Yes,Fiber optic,Two year,85.52,3458.96,No
+PzDj-17579,Male,1,Yes,No,33,Yes,DSL,One year,46.52,1516.79,No
+AEyX-12556,Female,1,Yes,No,29,Yes,DSL,Month-to-month,76.81,2226.18,No
+tmoj-21074,Male,1,No,No,10,Yes,No,Month-to-month,27.99,284.66,Yes
+YNxZ-56696,Male,1,Yes,No,30,No,DSL,Two year,66.52,2036.28,No
+NUaf-29218,Male,0,Yes,No,41,Yes,No,Two year,30.27,1251.56,No
+VeIi-61148,Male,0,No,No,11,No,DSL,Month-to-month,40.67,489.44,Yes
+ZJMM-80146,Female,1,Yes,No,30,Yes,Fiber optic,One year,89.3,2629.34,No
+zrjF-83975,Female,1,No,No,62,Yes,No,Two year,29.24,1778.51,No
+vpEG-92882,Female,0,No,No,24,No,No,One year,21.08,476.35,No
+Pfvu-40267,Female,1,Yes,Yes,64,Yes,No,Month-to-month,22.02,1433.38,No
+OvYk-76065,Female,0,No,No,62,No,DSL,One year,67.21,4153.18,No
+vcDQ-65146,Female,1,No,No,14,Yes,Fiber optic,Two year,108.55,1527.96,Yes
+ZQMr-16232,Female,1,Yes,No,40,No,DSL,Month-to-month,51.98,2032.4,No
+evak-33067,Male,0,Yes,No,10,Yes,DSL,Month-to-month,70.17,668.59,Yes
+GpDh-95056,Female,0,No,Yes,10,No,No,One year,20.88,253.72,Yes
+GUat-06149,Female,1,No,No,72,No,No,One year,19.38,1395.24,No
+ztZM-20441,Female,0,No,Yes,72,No,DSL,One year,57.03,4132.48,No
+QmGW-06865,Male,0,No,No,5,No,No,One year,23.97,93.41,Yes
+SJnA-42170,Male,0,No,No,23,Yes,No,One year,22.73,551.43,No
+SzUL-00710,Female,0,No,No,42,Yes,Fiber optic,Two year,103.79,4369.82,Yes
+PoIw-40564,Female,1,Yes,No,7,No,DSL,Two year,50.99,346.13,Yes
+PWgs-14089,Male,0,No,Yes,66,Yes,No,Two year,24.9,1610.53,Yes
+lPkP-47318,Male,1,Yes,No,51,Yes,Fiber optic,Month-to-month,88.58,4547.17,Yes
+tFyp-75508,Female,0,No,Yes,65,No,DSL,Two year,51.3,3353.09,No
+XXnV-32031,Male,1,No,No,65,No,DSL,One year,64.55,4225.02,No
+GlvJ-94137,Female,1,Yes,No,48,Yes,No,One year,29.32,1361.64,Yes
+uVcx-65141,Female,0,Yes,Yes,27,No,DSL,One year,51.54,1401.91,No
+eGGC-26822,Female,1,No,No,61,No,Fiber optic,Month-to-month,102.97,6256.99,Yes
+ZUcL-78201,Male,0,Yes,No,43,Yes,DSL,Two year,46.98,1992.06,No
+XNni-31106,Female,1,Yes,Yes,55,Yes,No,Two year,23.03,1227.82,Yes
+ASxo-36783,Female,0,Yes,Yes,26,No,Fiber optic,Two year,93.47,2434.24,Yes
+EWxC-69265,Male,0,No,No,5,Yes,No,Two year,20.1,104.42,Yes
+EIjg-05439,Female,0,No,No,47,No,DSL,One year,46.7,2212.94,No
+VQrD-19592,Male,0,Yes,No,46,No,Fiber optic,Two year,96.45,4404.92,No
+Eltz-74062,Female,1,No,No,57,Yes,DSL,One year,52.87,2972.87,Yes
+zXsP-31964,Female,0,No,No,45,No,Fiber optic,One year,103.13,4610.19,No
+Kfex-94865,Female,1,No,No,48,Yes,Fiber optic,One year,100.82,4817.81,No
+aKxB-15558,Female,1,Yes,Yes,56,No,DSL,Month-to-month,68.7,3802.61,No
+OKfO-36410,Male,1,Yes,No,55,No,No,One year,22.32,1261.04,Yes
+qTOJ-15473,Male,0,No,No,28,Yes,Fiber optic,Two year,77.81,2174.38,Yes
+rAWM-83980,Male,1,No,No,1,No,No,Month-to-month,20.02,52.12,Yes
+QAcW-79521,Male,0,Yes,No,56,Yes,No,Two year,33.67,1891.81,Yes
+SnIZ-82555,Male,1,Yes,Yes,55,Yes,DSL,Month-to-month,47.55,2663.82,No
+xZXv-57512,Male,1,Yes,No,59,Yes,DSL,One year,52.44,3055.03,No
+ISaz-92388,Female,1,No,No,19,Yes,Fiber optic,One year,96.74,1863.15,No
+xEEg-73049,Male,1,No,No,7,No,No,Month-to-month,23.69,212.23,No
+kvbO-15099,Male,1,Yes,Yes,6,Yes,No,One year,26.07,152.82,Yes
+HXdM-53372,Male,1,Yes,No,5,No,Fiber optic,Month-to-month,100.94,504.13,Yes
+Fggh-97497,Female,1,No,No,45,Yes,Fiber optic,Month-to-month,101.26,4584.16,No
+XTTO-47056,Male,0,Yes,No,11,No,No,One year,24.19,243.28,Yes
+ofKm-60834,Male,1,No,Yes,1,Yes,DSL,Month-to-month,62.85,77.18,No
+sBLx-70361,Male,0,No,No,16,Yes,Fiber optic,One year,88.79,1386.99,Yes
+VeEY-60753,Female,1,Yes,No,58,Yes,No,Month-to-month,32.74,1931.85,No
+twRm-28814,Female,0,Yes,No,44,Yes,DSL,One year,64.84,2831.26,Yes
+KDLu-92669,Female,0,No,Yes,16,Yes,DSL,Two year,45.56,695.85,Yes
+Zyyu-20562,Female,1,No,No,27,No,Fiber optic,Two year,73.3,2003.86,No
+mySm-04863,Female,1,Yes,No,4,No,DSL,Two year,51.58,221.88,No
+YzAR-96194,Female,1,No,No,31,Yes,No,Two year,33.46,1045.48,Yes
+lQCG-58115,Female,1,Yes,Yes,29,No,Fiber optic,One year,77.66,2256.54,Yes
+zDij-15286,Female,1,No,No,68,Yes,No,Month-to-month,26.36,1773.32,No
+QqkA-39586,Male,1,Yes,No,12,Yes,No,One year,22.77,264.76,No
+RvTP-40566,Male,1,Yes,No,12,Yes,DSL,One year,56.92,685.86,Yes
+hIDH-71817,Female,1,Yes,Yes,6,Yes,No,Two year,24.6,171.48,No
+TeFL-96042,Female,0,No,Yes,6,Yes,Fiber optic,One year,110.74,696.21,No
+Mjwy-46038,Female,1,Yes,Yes,18,No,Fiber optic,Two year,75.97,1380.33,No
+ihtZ-18229,Male,1,No,No,59,Yes,Fiber optic,One year,106.81,6348.28,No
+yAaj-23131,Female,0,Yes,Yes,58,No,Fiber optic,Month-to-month,103.95,6072.63,Yes
+xnbz-15957,Male,1,No,Yes,28,Yes,DSL,One year,46.74,1283.76,No
+vKgw-95087,Female,0,No,Yes,18,Yes,DSL,Month-to-month,54.98,997.0,No
+zXXb-09914,Female,0,Yes,Yes,1,Yes,No,One year,28.67,28.67,No
+roqb-58932,Female,1,No,Yes,30,Yes,Fiber optic,Two year,109.39,3321.62,No
+pESS-17069,Female,1,Yes,No,3,Yes,Fiber optic,Month-to-month,100.63,294.36,No
+lXKh-21282,Female,0,Yes,Yes,52,No,DSL,Month-to-month,53.95,2816.71,Yes
+tBvq-61604,Male,1,Yes,Yes,48,No,No,Two year,20.82,1029.12,No
+xpLn-44330,Male,0,No,Yes,69,No,No,Two year,22.54,1554.38,No
+hlvN-59235,Female,1,Yes,Yes,34,No,Fiber optic,One year,109.48,3747.41,Yes
+YPHk-36190,Female,1,Yes,Yes,55,No,Fiber optic,Two year,107.35,5891.59,No
+Rmbu-08810,Male,1,No,No,62,Yes,No,Month-to-month,28.49,1812.92,No
+GMDP-22613,Male,1,No,No,42,No,Fiber optic,Month-to-month,79.79,3365.6,No
+sHlE-81404,Male,1,No,No,32,No,Fiber optic,One year,103.84,3309.11,No
+bDBA-59396,Male,1,No,Yes,72,Yes,DSL,One year,57.59,4133.57,Yes
+dsmv-22843,Male,1,Yes,No,23,No,No,Month-to-month,20.38,431.22,Yes
+oRSX-24964,Male,0,Yes,No,42,Yes,Fiber optic,One year,101.53,4310.39,No
+uPfg-06461,Male,1,No,Yes,22,No,Fiber optic,Two year,79.84,1803.3,Yes
+YBED-61071,Male,1,No,No,51,No,No,Two year,23.89,1241.84,Yes
+ZniI-08047,Female,1,Yes,No,63,No,Fiber optic,One year,74.66,4741.02,No
+QLzd-34222,Male,0,No,No,14,No,No,Two year,22.96,274.76,No
+MigG-39553,Female,1,Yes,Yes,6,Yes,No,One year,24.06,179.73,Yes
+qquu-62764,Male,0,No,No,8,No,Fiber optic,Two year,108.3,887.53,No
+YbhJ-00454,Female,1,Yes,No,11,No,DSL,One year,42.21,424.25,No
+DWOy-58794,Female,1,Yes,No,37,No,Fiber optic,Month-to-month,112.89,4188.32,No
+JLwu-36263,Male,0,No,No,3,No,DSL,Month-to-month,52.81,146.66,No
+dhPS-39284,Male,0,No,No,20,Yes,No,Two year,21.92,415.07,Yes
+qCtQ-23575,Male,1,No,Yes,18,Yes,No,Month-to-month,27.78,491.22,No
+EhqI-00299,Female,0,No,No,49,Yes,DSL,Two year,75.29,3730.82,No
+cKhH-54349,Male,0,Yes,No,50,No,Fiber optic,Month-to-month,70.57,3497.75,No
+GVXn-83997,Female,0,Yes,No,61,Yes,No,Two year,31.77,1897.6,No
+PLpc-34293,Male,0,Yes,Yes,38,No,No,Month-to-month,20.97,798.27,No
+zwYv-91547,Female,1,Yes,No,61,No,Fiber optic,Two year,102.0,6239.66,No
+sVMU-34334,Female,1,No,Yes,24,No,Fiber optic,Two year,73.04,1778.62,No
+HWKu-88597,Male,0,Yes,No,31,Yes,DSL,Month-to-month,57.29,1759.84,No
+JOSE-10681,Female,0,No,No,67,Yes,DSL,One year,72.59,4867.65,No
+DLuV-06316,Male,0,Yes,No,8,Yes,No,One year,32.01,283.31,No
+LPAN-54081,Female,0,No,Yes,61,Yes,No,Two year,29.15,1760.93,No
+rHPk-60174,Male,0,Yes,No,11,Yes,Fiber optic,Month-to-month,112.88,1248.17,No
+RboR-44533,Female,0,No,No,49,No,No,Two year,23.5,1155.59,No
+fFyc-25897,Male,1,Yes,Yes,4,Yes,Fiber optic,Two year,99.61,443.64,No
+ncum-43794,Female,1,Yes,No,55,No,Fiber optic,One year,95.82,5314.28,No
+eehq-90993,Female,0,No,No,49,Yes,Fiber optic,One year,110.07,5349.54,No
+ybSB-89599,Female,1,Yes,Yes,32,Yes,DSL,Two year,58.03,1857.87,Yes
+gPtr-72668,Female,1,No,Yes,20,No,No,One year,23.52,517.59,Yes
+kfnC-04706,Male,0,No,No,53,Yes,No,One year,34.62,1867.24,No
+LGCj-10311,Male,0,No,No,20,Yes,Fiber optic,One year,95.46,1946.84,No
+ydsh-34450,Male,1,Yes,No,24,No,No,One year,20.21,438.01,No
+pZmn-26310,Female,0,No,No,27,No,Fiber optic,Month-to-month,98.37,2609.67,Yes
+WZcd-31366,Male,1,Yes,No,25,Yes,DSL,Two year,62.01,1596.32,No
+dzAj-85199,Male,1,No,Yes,60,Yes,DSL,Month-to-month,70.61,4189.58,Yes
+qUkO-04619,Male,0,No,Yes,54,Yes,Fiber optic,Month-to-month,95.25,5137.62,Yes
+ldZM-17691,Male,0,Yes,No,72,No,DSL,Month-to-month,55.88,3974.99,No
+yRfy-03281,Male,0,Yes,No,71,No,No,Month-to-month,23.92,1670.48,No
+flSs-09481,Male,0,Yes,No,15,Yes,DSL,Month-to-month,61.11,955.72,Yes
+jHYz-51559,Female,0,Yes,Yes,19,Yes,Fiber optic,Two year,78.45,1467.8,Yes
+gmae-66509,Female,1,Yes,Yes,63,No,Fiber optic,Two year,81.77,5135.72,No
+oUuv-25227,Male,0,Yes,No,31,Yes,No,Two year,28.99,911.99,No
+KDRa-44364,Female,1,No,No,3,Yes,Fiber optic,Two year,87.93,273.43,Yes
