@@ -1,6 +1,6 @@
 # Module 2 – Data Engineering for AI
 
-This module explores how data flows through an AI system — from raw collection to feature storage and serving. You’ll learn how Google Cloud’s data engineering components work together to build scalable, reproducible, and cost-efficient data pipelines. Through **Cloud Storage**, **BigQuery**, **Dataflow**, **Pub/Sub**, and **Vertex Feature Store**, you’ll see how data becomes trustworthy, structured, and ready for both training and real-time inference. There will be a basic hands-on component of adding files to Google Cloud Storage and data wrangling through BigQuery.
+This module explores how data flows through an AI system, from raw collection to feature storage and serving. You’ll learn how Google Cloud’s data engineering components work together to build scalable, reproducible, and cost-efficient data pipelines. Through **Cloud Storage**, **BigQuery**, **Dataflow**, **Pub/Sub**, and **Vertex Feature Store**, you’ll see how data becomes trustworthy, structured, and ready for both training and real-time inference. There will be a basic hands-on component of adding files to Google Cloud Storage and data wrangling through BigQuery.
 
 ---
 
@@ -28,3 +28,4 @@ This module explores how data flows through an AI system — from raw collection
 ## 💡 Takeaway
 
 Data engineering is the bloodstream of AI. With **Cloud Storage**, **BigQuery**, **Pub/Sub**, **Dataflow**, and **Vertex Feature Store**, Google Cloud provides a cohesive platform for collecting, transforming, and serving data at scale. These services ensure your data remains consistent, reproducible, and ready for both model training and real-time prediction — forming the backbone of every successful AI system.
+
